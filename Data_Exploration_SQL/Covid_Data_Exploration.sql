@@ -30,13 +30,13 @@ WHERE location like '%state%'
 ORDER BY 1,2;
 
 -- Looking at Countries with Highest Infection Rate compared to Population
-SELECT location, population, MAX(total_cases) AS HighestInfectionCount, MAX(total_cases/population)*100 AS PercentagePopulationInfected
+SELECT location, population, MAX(total_cases) AS HighestInfectionCount, MAX(total_cases/population)*100 AS PercentPopulationInfected
 FROM PortfolioProject.coviddeaths
 -- WHERE location like '%state%'
 WHERE continent IS NOT NULL
   AND TRIM(continent) != ''
 GROUP BY location, population
-ORDER BY PercentagePopulationInfected DESC;
+ORDER BY PercentPopulationInfected DESC;
 
 -- Showing Countries with Highest Death Count per Population
 SELECT 
@@ -87,7 +87,7 @@ WHERE continent IS NOT NULL
 GROUP BY str_to_date(date, '%Y/%c/%e')
 ORDER BY 1,2;
     
--- Showing Global Increments (New Cases Daily)
+-- Showing Global Increments (New Cases)
 SELECT 
     SUM(new_cases) AS total_cases,
     SUM(new_deaths) AS total_deaths,
@@ -95,7 +95,29 @@ SELECT
 FROM PortfolioProject.coviddeaths
 WHERE continent IS NOT NULL
   AND TRIM(continent) != '';
-  
+-- ORDER BY location, population;
+
+-- Showing Global Increments of Newly-Deaths By Continent
+SELECT 
+    continent, 
+    SUM(new_deaths) AS TotalDeathCount
+FROM PortfolioProject.coviddeaths
+WHERE TRIM(continent) != ''
+  AND location NOT IN ('World', 'European Union', 'International')
+-- WHERE location like '%state%'
+GROUP BY continent
+ORDER BY TotalDeathCount DESC;
+
+SELECT 
+    location, 
+    SUM(new_deaths) AS TotalDeathCount
+FROM PortfolioProject.coviddeaths
+WHERE TRIM(continent) = ''
+  AND location NOT IN ('World', 'European Union', 'International')
+-- WHERE location like '%state%'
+GROUP BY location
+ORDER BY TotalDeathCount DESC;
+
 -- Vaccinations Table
 SELECT *
 FROM PortfolioProject.covidvaccinations;
