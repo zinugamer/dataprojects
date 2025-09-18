@@ -2,14 +2,14 @@ SELECT *
 FROM PortfolioProject.coviddeaths
 WHERE continent IS NOT NULL
   AND TRIM(continent) != ''
-ORDER BY 3,4;
+ORDER BY 3, STR_TO_DATE(date, '%Y/%c/%e'); --  1.用数字可以排序；2.日期列转换为正确格式
 
 
 SELECT location, date, total_cases, new_cases, total_deaths, population
 FROM PortfolioProject.coviddeaths
 WHERE continent IS NOT NULL
-  AND TRIM(continent) != ''
-ORDER BY 1,2;
+	AND TRIM(continent) != ''
+ORDER BY 1, STR_TO_DATE(date, '%Y/%c/%e');
 
 -- Looking at Total Cases vs. Total Deaths
 -- Shows what percentage of Infected Cases were dead
@@ -175,7 +175,8 @@ ORDER BY location, date
 )
 
 SELECT *, (RollingPeopleVaccinated/Population)*100 AS PercentagePopulationVaccinated
-FROM PopvsVac;
+FROM PopvsVac
+ORDER BY location, date;
 
 
 -- TEMP TABLE
