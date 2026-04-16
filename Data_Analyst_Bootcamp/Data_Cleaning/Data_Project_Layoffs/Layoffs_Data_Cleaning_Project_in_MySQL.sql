@@ -1,11 +1,11 @@
 /*
     Data Cleaning Project
-     - company layoffs 公司裁员情况分析
-     - Steps:
-       1. Remove Dupicates
-       2. Standardize the Data
-       3. Null Values or blank values
-       4. Remove Any Columns
+     - 背景：company layoffs 公司裁员情况分析
+     - 操作 Steps:
+       1. Remove Dupicates删除重复记录
+       2. Standardize the Data数据标准化
+       3. Null Values or blank values处理空值
+       4. Remove Any Columns删除非关键指标/无关属性
 */
 
 -- Create table for raw data
@@ -49,6 +49,7 @@ SELECT *
 FROM world_layoffs.layoffs_staging
 ;
 
+-- Data Cleaning 开始数据清洗
 -- (1) Remove Duplicates by creating CTE with Partitions (row numbers for each group)
 
 WITH duplicate_cte AS
@@ -64,13 +65,14 @@ FROM duplicate_cte
 WHERE row_num > 1
 ;
 
--- 检查当前分组方式是否的确是完全一致的记录，如果不是，用全部的column来分组更安全-保证记录完全一致
+-- double check检查当前分组方式是否的确是完全一致的记录
 SELECT *
 FROM world_layoffs.layoffs_staging
-WHERE company = 'Casper'
+WHERE company = 'Oda'
 ;
 
--- 'Copy to Clipboard - Create Statement'
+-- 右键目标 table 下拉菜单'Copy to Clipboard - Create Statement'
+DROP TABLE IF EXISTS world_layoffs.layoffs_staging2;
 CREATE TABLE `world_layoffs`.`layoffs_staging2` (
   `company` varchar(255) DEFAULT NULL,
   `location` varchar(255) DEFAULT NULL,
@@ -117,6 +119,10 @@ WHERE row_num > 1
 
 -- (2) Standardizing Data: Find issues in yr data and then fixing it
 -- company col
+SELECT *
+FROM world_layoffs.layoffs_staging2
+;
+
 SELECT company, TRIM(company)
 FROM world_layoffs.layoffs_staging2;
 
@@ -182,7 +188,7 @@ ORDER BY 1
 -- Formatting the date col, to the correct data type
 SELECT 
   `date`,
-  STR_TO_DATE(`date`, '%m/%d/%Y')
+  STR_TO_DATE(`date`, '%m/%d/%Y') AS revised_date
 FROM world_layoffs.layoffs_staging2
 ;
 
@@ -250,7 +256,7 @@ AND t2.industry IS NOT NULL
 ;
 SET SQL_SAFE_UPDATES = 1;
 
--- 
+-- 检查是否修改成功（是否还存在一个为空一个不为空的情况）
 SELECT *
 FROM world_layoffs.layoffs_staging2 t1
 JOIN world_layoffs.layoffs_staging2 t2
@@ -259,7 +265,7 @@ WHERE t1.industry IS NULL
 AND t2.industry IS NOT NULL
 ;
 
---
+-- 检查是否还存在空值（没有多条记录，无法交叉填充的记录）
 SELECT *
 FROM world_layoffs.layoffs_staging2
 WHERE industry IS NULL
@@ -270,9 +276,17 @@ OR industry = ''
 SELECT *
 FROM world_layoffs.layoffs_staging2
 WHERE company LIKE 'Bally%'
+;
 
 -- (4) Remove Any Columns
--- 对于total_laid_off和percentage_laid_off都没有，也没有总员工数的情况下，没办法通过计算得到这两列的值，只能删除
+-- 先观察关键指标和此指标的因子指标是不是都为空
+SELECT *
+FROM world_layoffs.layoffs_staging2
+WHERE total_laid_off IS NULL
+AND percentage_laid_off IS NULL
+;
+
+-- 公司总人数、裁员总数、裁员占比都为空，则无法计算想要的裁员占比，那么这个记录就是无效的
 SET SQL_SAFE_UPDATES = 0;
 DELETE
 FROM world_layoffs.layoffs_staging2

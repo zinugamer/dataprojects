@@ -2,7 +2,7 @@ import pandas as pd
 import mysql.connector
 
 # 1. 读 CSV
-df = pd.read_csv("/Users/jincheng/Desktop/Data_Science/Data_Analytics/dataprojects/Data_Project_Layoffs/layoffs.csv")
+df = pd.read_csv("/Users/jincheng/Desktop/Data_Science/Data_Analytics/dataprojects/Data_Analyst_Bootcamp/Data_Cleaning/Data_Project_Layoffs/layoffs.csv")
 
 # Replace NaN with None for the entire DataFrame
 df = df.replace({pd.NA: None, pd.NaT: None, float('nan'): None})
