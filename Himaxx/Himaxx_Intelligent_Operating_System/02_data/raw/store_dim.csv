@@ -1,0 +1,77 @@
+store_id,store_name,channel,store_format,region,city,store_level,store_size_sqm,staff_count,open_date,store_maturity,trade_area_type,rent_model,profit_profile,sales_power_index,cost_pressure_index,is_active
+S001,Himaxx Beijing Warehouse 1,Himaxx Warehouse Outlet,Mall Warehouse,North China,Beijing,C,15578,73,2024-03-07,Mature,Suburban Mall,Revenue Share,High Profit,1.789,0.852,1
+S002,Himaxx Nanjing Warehouse 2,Himaxx Warehouse Outlet,Shopping Center Warehouse,East China,Nanjing,B,18227,84,2020-06-30,New Store,Outlet Cluster,Revenue Share,Stable,1.068,0.961,1
+S003,Himaxx Shenzhen Warehouse 3,Himaxx Warehouse Outlet,Warehouse Outlet,South China,Shenzhen,C,20931,100,2021-12-30,New Store,Suburban Mall,Fixed + Revenue Share,At Risk,0.758,1.167,1
+S004,Himaxx Xiamen Warehouse 4,Himaxx Warehouse Outlet,Pop-up Clearance Warehouse,South China,Xiamen,B,8222,34,2021-09-08,Mature,Suburban Mall,Fixed + Revenue Share,Stable,1.057,0.876,1
+S005,Himaxx Changsha Warehouse 5,Himaxx Warehouse Outlet,Shopping Center Warehouse,Central China,Changsha,B,13123,45,2024-10-06,Ramp-up,Transport Hub,Fixed Rent,At Risk,0.941,1.147,1
+S006,Himaxx Qingdao Warehouse 6,Himaxx Warehouse Outlet,Warehouse Outlet,North China,Qingdao,C,18648,77,2024-05-28,Mature,Suburban Mall,Fixed Rent,At Risk,0.934,1.165,1
+S007,Himaxx Wuhan Warehouse 7,Himaxx Warehouse Outlet,Mall Warehouse,Central China,Wuhan,B,16119,70,2025-09-12,Mature,Suburban Mall,Fixed Rent,Stable,1.166,0.962,1
+S008,Himaxx Changsha Warehouse 8,Himaxx Warehouse Outlet,Mall Warehouse,Central China,Changsha,C,11871,40,2020-11-13,Mature,Industrial Park,Fixed + Revenue Share,High Profit,1.477,0.759,1
+S009,Himaxx Changsha Warehouse 9,Himaxx Warehouse Outlet,Mall Warehouse,Central China,Changsha,C,11335,51,2022-11-17,Mature,Suburban Mall,Revenue Share,High Profit,1.391,0.844,1
+S010,Himaxx Changsha Warehouse 10,Himaxx Warehouse Outlet,Community Warehouse,Central China,Changsha,B,10286,38,2020-07-11,New Store,Suburban Mall,Fixed + Revenue Share,Stable,1.189,0.922,1
+S011,Himaxx Chengdu Warehouse 11,Himaxx Warehouse Outlet,Community Warehouse,West China,Chengdu,A,13815,57,2021-08-29,Ramp-up,Suburban Mall,Fixed + Revenue Share,At Risk,0.915,1.162,1
+S012,Himaxx Beijing Warehouse 12,Himaxx Warehouse Outlet,Warehouse Outlet,North China,Beijing,B,17792,63,2023-05-19,Mature,Community,Revenue Share,High Profit,1.735,0.852,1
+S013,Himaxx Shenzhen Warehouse 13,Himaxx Warehouse Outlet,Community Warehouse,South China,Shenzhen,A,10494,49,2020-07-04,Ramp-up,Suburban Mall,Revenue Share,High Profit,1.572,0.766,1
+S014,Himaxx Tianjin Warehouse 14,Himaxx Warehouse Outlet,Shopping Center Warehouse,North China,Tianjin,B,13468,39,2021-07-16,Mature,Transport Hub,Fixed Rent,Stable,1.007,1.042,1
+S015,Himaxx Hangzhou Warehouse 15,Himaxx Warehouse Outlet,Mall Warehouse,East China,Hangzhou,C,14573,64,2024-03-30,Mature,Community,Fixed Rent,Stable,1.08,0.916,1
+S016,Himaxx Chengdu Warehouse 16,Himaxx Warehouse Outlet,Shopping Center Warehouse,West China,Chengdu,A,15540,74,2023-08-13,Mature,Transport Hub,Fixed + Revenue Share,High Profit,1.653,0.756,1
+S017,Himaxx Hangzhou Warehouse 17,Himaxx Warehouse Outlet,Shopping Center Warehouse,East China,Hangzhou,A,10374,37,2021-09-01,Mature,Community,Fixed + Revenue Share,Stable,1.111,1.016,1
+S018,Himaxx Xi'an Warehouse 18,Himaxx Warehouse Outlet,Mall Warehouse,West China,Xi'an,A,17488,58,2023-11-19,Aging,Outlet Cluster,Fixed + Revenue Share,High Profit,1.37,0.787,1
+S019,Himaxx Qingdao Warehouse 19,Himaxx Warehouse Outlet,Shopping Center Warehouse,North China,Qingdao,B,13159,57,2025-03-15,New Store,Transport Hub,Fixed Rent,At Risk,0.898,1.143,1
+S020,Himaxx Shanghai Warehouse 20,Himaxx Warehouse Outlet,Warehouse Outlet,East China,Shanghai,A,20311,107,2020-05-21,Aging,Suburban Mall,Fixed Rent,High Profit,1.431,0.82,1
+S021,Himaxx Changsha Warehouse 21,Himaxx Warehouse Outlet,Pop-up Clearance Warehouse,Central China,Changsha,B,6863,35,2025-03-07,Mature,Suburban Mall,Revenue Share,High Profit,1.453,0.726,1
+S022,Himaxx Xiamen Warehouse 22,Himaxx Warehouse Outlet,Mall Warehouse,South China,Xiamen,A,16432,70,2024-07-14,Ramp-up,Outlet Cluster,Fixed Rent,At Risk,0.922,1.083,1
+S023,Himaxx Changsha Warehouse 23,Himaxx Warehouse Outlet,Mall Warehouse,Central China,Changsha,B,17644,59,2022-05-22,Mature,Industrial Park,Fixed Rent,Stable,1.277,0.855,1
+S024,Himaxx Chongqing Warehouse 24,Himaxx Warehouse Outlet,Mall Warehouse,West China,Chongqing,C,14768,54,2021-04-12,Mature,Suburban Mall,Fixed Rent,Loss Making,0.691,1.414,1
+S025,Himaxx Hangzhou Warehouse 25,Himaxx Warehouse Outlet,Shopping Center Warehouse,East China,Hangzhou,A,15307,74,2026-02-02,Mature,Community,Fixed Rent,Stable,1.26,0.971,1
+S026,Himaxx Beijing Warehouse 26,Himaxx Warehouse Outlet,Shopping Center Warehouse,North China,Beijing,B,12478,51,2022-05-14,Ramp-up,Suburban Mall,Revenue Share,High Profit,1.686,0.863,1
+S027,Himaxx Chengdu Warehouse 27,Himaxx Warehouse Outlet,Shopping Center Warehouse,West China,Chengdu,B,11438,38,2020-11-26,Ramp-up,Suburban Mall,Fixed Rent,Loss Making,0.5,1.35,1
+S028,Himaxx Chongqing Warehouse 28,Himaxx Warehouse Outlet,Warehouse Outlet,West China,Chongqing,A,17911,51,2020-12-04,Mature,Outlet Cluster,Fixed + Revenue Share,At Risk,0.818,1.129,1
+S029,Himaxx Suzhou Warehouse 29,Himaxx Warehouse Outlet,Warehouse Outlet,East China,Suzhou,A,14493,51,2025-06-06,Mature,Industrial Park,Fixed Rent,Stable,1.125,0.86,1
+S030,Himaxx Beijing Warehouse 30,Himaxx Warehouse Outlet,Warehouse Outlet,North China,Beijing,C,12991,55,2023-12-20,Mature,Transport Hub,Revenue Share,At Risk,0.971,1.295,1
+S031,Himaxx Xi'an Warehouse 31,Himaxx Warehouse Outlet,Warehouse Outlet,West China,Xi'an,B,17142,73,2025-03-10,Mature,Suburban Mall,Fixed Rent,At Risk,0.839,1.146,1
+S032,Himaxx Wuhan Warehouse 32,Himaxx Warehouse Outlet,Mall Warehouse,Central China,Wuhan,A,12940,46,2024-09-21,Mature,Suburban Mall,Fixed + Revenue Share,Stable,1.098,0.926,1
+S033,Himaxx Chongqing Warehouse 33,Himaxx Warehouse Outlet,Mall Warehouse,West China,Chongqing,B,14283,77,2023-07-25,Mature,Industrial Park,Fixed Rent,At Risk,0.896,1.251,1
+S034,Himaxx Shenzhen Warehouse 34,Himaxx Warehouse Outlet,Warehouse Outlet,South China,Shenzhen,B,20607,99,2026-03-09,Mature,Suburban Mall,Fixed + Revenue Share,High Profit,1.626,0.719,1
+S035,Himaxx Chongqing Warehouse 35,Himaxx Warehouse Outlet,Pop-up Clearance Warehouse,West China,Chongqing,C,9562,22,2022-08-14,Ramp-up,Industrial Park,Fixed Rent,At Risk,0.939,1.287,1
+S036,Himaxx Nanjing Warehouse 36,Himaxx Warehouse Outlet,Warehouse Outlet,East China,Nanjing,B,17724,68,2023-08-29,Mature,Community,Revenue Share,Stable,1.157,1.003,1
+S037,Himaxx Shenzhen Warehouse 37,Himaxx Warehouse Outlet,Warehouse Outlet,South China,Shenzhen,A,12877,58,2025-04-28,Mature,Community,Fixed + Revenue Share,At Risk,0.826,1.244,1
+S038,Himaxx Qingdao Warehouse 38,Himaxx Warehouse Outlet,Warehouse Outlet,North China,Qingdao,B,15144,72,2024-01-22,Mature,Community,Fixed + Revenue Share,High Profit,1.417,0.887,1
+S039,Himaxx Shenzhen Warehouse 39,Himaxx Warehouse Outlet,Pop-up Clearance Warehouse,South China,Shenzhen,C,8876,31,2025-07-07,Aging,Suburban Mall,Fixed + Revenue Share,Stable,1.296,0.994,1
+S040,Himaxx Xiamen Warehouse 40,Himaxx Warehouse Outlet,Warehouse Outlet,South China,Xiamen,B,18860,95,2023-10-23,Ramp-up,Community,Fixed Rent,High Profit,1.554,0.865,1
+S041,Himaxx Shanghai Warehouse 41,Himaxx Warehouse Outlet,Shopping Center Warehouse,East China,Shanghai,C,11105,42,2024-07-28,Mature,Suburban Mall,Fixed + Revenue Share,Loss Making,0.714,1.349,1
+S042,Himaxx Shanghai Warehouse 42,Himaxx Warehouse Outlet,Community Warehouse,East China,Shanghai,A,13382,51,2020-08-15,Mature,Suburban Mall,Fixed + Revenue Share,High Profit,1.458,0.729,1
+S043,Himaxx Hangzhou Warehouse 43,Himaxx Warehouse Outlet,Warehouse Outlet,East China,Hangzhou,A,12516,51,2021-09-18,Mature,Suburban Mall,Fixed + Revenue Share,Stable,1.24,0.898,1
+S044,Himaxx Changsha Warehouse 44,Himaxx Warehouse Outlet,Community Warehouse,Central China,Changsha,B,13027,58,2022-01-31,Mature,Transport Hub,Revenue Share,High Profit,1.441,0.725,1
+S045,Himaxx Beijing Warehouse 45,Himaxx Warehouse Outlet,Warehouse Outlet,North China,Beijing,B,13930,56,2020-10-28,Mature,Suburban Mall,Revenue Share,Stable,1.213,1.046,1
+S046,Himaxx Shanghai Warehouse 46,Himaxx Warehouse Outlet,Shopping Center Warehouse,East China,Shanghai,B,11731,36,2021-09-29,Mature,Transport Hub,Revenue Share,High Profit,1.433,0.896,1
+S047,Himaxx Xiamen Warehouse 47,Himaxx Warehouse Outlet,Warehouse Outlet,South China,Xiamen,C,15013,67,2020-12-14,Aging,Suburban Mall,Revenue Share,Stable,1.21,0.98,1
+S048,Himaxx Chongqing Warehouse 48,Himaxx Warehouse Outlet,Mall Warehouse,West China,Chongqing,A,11072,45,2022-01-06,Mature,Industrial Park,Fixed Rent,Stable,1.091,0.936,1
+S049,Himaxx Shenzhen Warehouse 49,Himaxx Warehouse Outlet,Warehouse Outlet,South China,Shenzhen,B,15170,62,2024-02-28,Ramp-up,Industrial Park,Revenue Share,High Profit,1.538,0.795,1
+S050,Himaxx Suzhou Warehouse 50,Himaxx Warehouse Outlet,Community Warehouse,East China,Suzhou,B,9897,34,2022-07-15,Mature,Community,Revenue Share,At Risk,0.865,1.158,1
+S051,Himaxx Qingdao Warehouse 51,Himaxx Warehouse Outlet,Shopping Center Warehouse,North China,Qingdao,C,15036,72,2022-07-27,Mature,Community,Fixed Rent,Stable,1.24,0.913,1
+S052,Himaxx Shanghai Warehouse 52,Himaxx Warehouse Outlet,Shopping Center Warehouse,East China,Shanghai,A,12806,36,2021-08-09,Mature,Suburban Mall,Fixed + Revenue Share,Stable,1.052,0.913,1
+S053,Himaxx Chongqing Warehouse 53,Himaxx Warehouse Outlet,Warehouse Outlet,West China,Chongqing,A,18008,104,2021-12-12,Aging,Transport Hub,Fixed Rent,High Profit,1.514,0.892,1
+S054,Himaxx Tianjin Warehouse 54,Himaxx Warehouse Outlet,Community Warehouse,North China,Tianjin,B,11845,52,2025-12-19,Ramp-up,Suburban Mall,Fixed + Revenue Share,High Profit,1.444,0.805,1
+S055,Himaxx Xiamen Warehouse 55,Himaxx Warehouse Outlet,Mall Warehouse,South China,Xiamen,C,17922,79,2024-03-26,New Store,Transport Hub,Fixed Rent,High Profit,1.552,0.779,1
+S056,Himaxx Nanjing Warehouse 56,Himaxx Warehouse Outlet,Warehouse Outlet,East China,Nanjing,A,21071,88,2024-01-01,Mature,Industrial Park,Revenue Share,High Profit,1.455,0.758,1
+S057,Himaxx Shanghai Warehouse 57,Himaxx Warehouse Outlet,Warehouse Outlet,East China,Shanghai,C,18375,73,2021-05-16,New Store,Community,Revenue Share,Stable,1.201,1.003,1
+S058,Himaxx Xiamen Warehouse 58,Himaxx Warehouse Outlet,Shopping Center Warehouse,South China,Xiamen,B,17686,60,2024-09-20,Mature,Outlet Cluster,Fixed Rent,At Risk,0.851,1.277,1
+S059,Himaxx Suzhou Warehouse 59,Himaxx Warehouse Outlet,Mall Warehouse,East China,Suzhou,A,13188,47,2021-04-30,Mature,Suburban Mall,Fixed Rent,Loss Making,0.639,1.312,1
+S060,Himaxx Xi'an Warehouse 60,Himaxx Warehouse Outlet,Mall Warehouse,West China,Xi'an,B,14787,77,2022-08-16,Mature,Outlet Cluster,Revenue Share,High Profit,1.475,0.841,1
+S061,Himaxx Xiamen Warehouse 61,Himaxx Warehouse Outlet,Community Warehouse,South China,Xiamen,C,12324,46,2026-04-14,Ramp-up,Transport Hub,Fixed Rent,Loss Making,0.685,1.553,1
+S062,Himaxx Xi'an Warehouse 62,Himaxx Warehouse Outlet,Community Warehouse,West China,Xi'an,C,13907,48,2024-03-09,Mature,Suburban Mall,Fixed Rent,Stable,1.22,1.0,1
+S063,Himaxx Nanjing Warehouse 63,Himaxx Warehouse Outlet,Mall Warehouse,East China,Nanjing,C,13719,54,2023-09-09,New Store,Industrial Park,Fixed + Revenue Share,Loss Making,0.573,1.528,1
+S064,Himaxx Guangzhou Warehouse 64,Himaxx Warehouse Outlet,Shopping Center Warehouse,South China,Guangzhou,A,13727,58,2024-06-14,Mature,Transport Hub,Fixed + Revenue Share,High Profit,1.399,0.835,1
+S065,Himaxx Tianjin Warehouse 65,Himaxx Warehouse Outlet,Shopping Center Warehouse,North China,Tianjin,A,12345,53,2025-05-27,Mature,Industrial Park,Fixed Rent,Stable,1.257,0.851,1
+S066,Himaxx Tianjin Warehouse 66,Himaxx Warehouse Outlet,Shopping Center Warehouse,North China,Tianjin,B,12376,45,2025-01-01,Ramp-up,Industrial Park,Fixed Rent,At Risk,0.804,1.263,1
+S067,Himaxx Beijing Warehouse 67,Himaxx Warehouse Outlet,Shopping Center Warehouse,North China,Beijing,A,10848,41,2021-09-20,Aging,Suburban Mall,Fixed Rent,Stable,1.215,1.011,1
+S068,Himaxx Suzhou Warehouse 68,Himaxx Warehouse Outlet,Mall Warehouse,East China,Suzhou,C,15607,54,2020-07-16,Mature,Suburban Mall,Fixed Rent,Stable,1.118,1.033,1
+S069,Himaxx Beijing Warehouse 69,Himaxx Warehouse Outlet,Warehouse Outlet,North China,Beijing,A,16532,52,2022-03-29,Aging,Transport Hub,Revenue Share,Stable,1.103,0.934,1
+S070,Himaxx Changsha Warehouse 70,Himaxx Warehouse Outlet,Shopping Center Warehouse,Central China,Changsha,A,13253,42,2021-12-14,Mature,Industrial Park,Fixed Rent,Loss Making,0.609,1.51,1
+S071,Himaxx Qingdao Warehouse 71,Himaxx Warehouse Outlet,Warehouse Outlet,North China,Qingdao,A,20743,79,2021-08-12,Mature,Community,Revenue Share,Stable,1.168,1.008,1
+S072,Himaxx Changsha Warehouse 72,Himaxx Warehouse Outlet,Community Warehouse,Central China,Changsha,C,13415,59,2026-01-01,Ramp-up,Industrial Park,Fixed + Revenue Share,At Risk,0.756,1.191,1
+S073,Himaxx Tianjin Warehouse 73,Himaxx Warehouse Outlet,Mall Warehouse,North China,Tianjin,A,17678,65,2025-08-09,New Store,Community,Revenue Share,High Profit,1.368,0.749,1
+S074,Himaxx Tianjin Warehouse 74,Himaxx Warehouse Outlet,Warehouse Outlet,North China,Tianjin,A,15845,59,2022-03-27,Mature,Community,Fixed Rent,High Profit,1.664,0.741,1
+S075,Himaxx Shenzhen Warehouse 75,Himaxx Warehouse Outlet,Warehouse Outlet,South China,Shenzhen,C,12012,35,2024-04-12,Mature,Transport Hub,Fixed + Revenue Share,Stable,1.147,0.917,1
+S076,Himaxx Nanjing Warehouse 76,Himaxx Warehouse Outlet,Warehouse Outlet,East China,Nanjing,A,16798,57,2022-09-20,Aging,Suburban Mall,Revenue Share,At Risk,0.768,1.133,1

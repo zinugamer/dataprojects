@@ -1,0 +1,1001 @@
+member_id,customer_name,gender,age,city,region,membership_tier,join_date,preferred_store_format,is_active_member
+M00001,John Costa,Female,23,Suzhou,East China,Silver,2023-09-14,Shopping Center Warehouse,1
+M00002,Marie Christian,Male,38,Guangzhou,South China,Silver,2025-10-04,Mall Warehouse,1
+M00003,Jamie Stewart,Male,30,Chongqing,West China,Gold,2025-03-23,Mall Warehouse,1
+M00004,Shelia Johnson,Male,23,Suzhou,East China,Silver,2022-08-15,Warehouse Outlet,1
+M00005,Tammie Bright,Male,46,Changsha,Central China,Silver,2025-05-03,Shopping Center Warehouse,0
+M00006,Brett Schultz,Female,22,Shanghai,East China,Silver,2025-11-02,Community Warehouse,1
+M00007,Michael Berger,Female,46,Nanjing,East China,Silver,2022-07-14,Warehouse Outlet,1
+M00008,Elaine Brooks,Female,42,Hangzhou,East China,Gold,2022-12-06,Pop-up Clearance Warehouse,1
+M00009,Kylie Sparks,Female,32,Chongqing,West China,Silver,2023-01-11,Shopping Center Warehouse,1
+M00010,Seth Harvey,Unknown,42,Chongqing,West China,Silver,2023-04-24,Community Warehouse,1
+M00011,Briana Murray,Male,25,Wuhan,Central China,Platinum,2023-05-14,Warehouse Outlet,1
+M00012,Adam Ballard,Male,30,Tianjin,North China,Gold,2025-12-14,Shopping Center Warehouse,1
+M00013,Brooke Alexander,Female,31,Suzhou,East China,Silver,2023-09-24,Shopping Center Warehouse,1
+M00014,Margaret Coleman,Female,22,Chengdu,West China,Gold,2023-05-08,Mall Warehouse,1
+M00015,Christina Cruz,Male,30,Shanghai,East China,Gold,2024-04-12,Warehouse Outlet,1
+M00016,Kenneth Andrews,Male,48,Chongqing,West China,Gold,2026-04-27,Mall Warehouse,1
+M00017,William Barrett,Male,30,Qingdao,North China,Gold,2023-06-13,Shopping Center Warehouse,1
+M00018,Melissa Garner,Female,47,Chongqing,West China,Gold,2022-07-18,Community Warehouse,1
+M00019,Kathleen Strong,Female,29,Changsha,Central China,Platinum,2023-06-30,Warehouse Outlet,1
+M00020,Lisa Gomez,Female,39,Suzhou,East China,Silver,2024-11-23,Mall Warehouse,1
+M00021,Megan Le,Male,28,Nanjing,East China,Gold,2024-12-26,Warehouse Outlet,1
+M00022,Lori Berger,Male,28,Suzhou,East China,Silver,2024-12-07,Shopping Center Warehouse,1
+M00023,Jeremiah Riley,Unknown,28,Shanghai,East China,Diamond,2025-04-11,Warehouse Outlet,1
+M00024,Edward Burgess,Male,28,Chongqing,West China,Gold,2023-01-19,Warehouse Outlet,1
+M00025,Joshua Mata,Female,28,Xiamen,South China,Platinum,2024-06-21,Mall Warehouse,1
+M00026,Sandra Scott,Male,54,Beijing,North China,Silver,2025-08-24,Shopping Center Warehouse,1
+M00027,Dr. Paul Morgan,Male,18,Beijing,North China,Gold,2022-10-23,Shopping Center Warehouse,1
+M00028,Brenda Levy,Female,22,Xiamen,South China,Silver,2025-10-15,Mall Warehouse,1
+M00029,Veronica Coffey,Male,45,Suzhou,East China,Silver,2025-07-26,Pop-up Clearance Warehouse,1
+M00030,Richard Smith,Female,30,Shanghai,East China,Gold,2024-06-29,Pop-up Clearance Warehouse,0
+M00031,Michael Chambers,Female,44,Xiamen,South China,Gold,2024-09-08,Mall Warehouse,1
+M00032,Teresa Rodriguez,Male,21,Nanjing,East China,Silver,2023-04-14,Warehouse Outlet,1
+M00033,Stephen Hoffman,Male,53,Nanjing,East China,Silver,2026-01-04,Community Warehouse,0
+M00034,Arthur Colon,Male,30,Shenzhen,South China,Silver,2025-12-26,Warehouse Outlet,1
+M00035,Jason Taylor,Female,20,Changsha,Central China,Silver,2026-02-18,Mall Warehouse,1
+M00036,Johnathan Davis,Female,22,Changsha,Central China,Silver,2025-11-24,Mall Warehouse,1
+M00037,Jesse Santiago,Female,34,Hangzhou,East China,Gold,2025-04-27,Mall Warehouse,1
+M00038,Jennifer Newton,Female,34,Qingdao,North China,Silver,2022-12-19,Warehouse Outlet,1
+M00039,Brett Burns,Female,23,Nanjing,East China,Gold,2023-12-25,Community Warehouse,1
+M00040,Amanda Wood,Male,33,Changsha,Central China,Silver,2024-02-14,Warehouse Outlet,0
+M00041,Savannah Garcia,Male,45,Hangzhou,East China,Platinum,2025-02-02,Shopping Center Warehouse,1
+M00042,Vanessa Howard,Male,33,Changsha,Central China,Gold,2023-12-10,Warehouse Outlet,1
+M00043,Bryan Charles,Male,39,Chengdu,West China,Platinum,2024-03-02,Community Warehouse,1
+M00044,Maria Harper,Female,30,Nanjing,East China,Silver,2022-06-08,Warehouse Outlet,1
+M00045,Dana Martinez,Male,42,Qingdao,North China,Silver,2024-08-09,Warehouse Outlet,1
+M00046,Phillip Clark,Male,34,Guangzhou,South China,Silver,2023-03-19,Warehouse Outlet,0
+M00047,Erin Hernandez,Male,45,Chongqing,West China,Platinum,2025-12-13,Shopping Center Warehouse,1
+M00048,Scott Thomas,Female,25,Chongqing,West China,Gold,2022-11-13,Mall Warehouse,1
+M00049,Christopher Guerrero,Female,43,Suzhou,East China,Diamond,2022-06-14,Warehouse Outlet,1
+M00050,Richard Young,Female,49,Xiamen,South China,Silver,2023-08-24,Community Warehouse,1
+M00051,Anthony Harmon,Male,29,Shanghai,East China,Silver,2024-06-14,Warehouse Outlet,1
+M00052,Karen Strickland,Female,31,Hangzhou,East China,Gold,2024-05-26,Community Warehouse,1
+M00053,Jonathan Dougherty,Female,21,Suzhou,East China,Gold,2022-07-10,Community Warehouse,1
+M00054,Sharon Boyd,Male,30,Chongqing,West China,Diamond,2024-03-07,Mall Warehouse,1
+M00055,Amy Mendoza,Unknown,50,Chengdu,West China,Silver,2023-12-15,Warehouse Outlet,1
+M00056,Katherine Browning,Male,23,Qingdao,North China,Gold,2022-08-23,Pop-up Clearance Warehouse,1
+M00057,Lee Jones,Male,22,Xi'an,West China,Silver,2023-06-13,Mall Warehouse,1
+M00058,Kimberly Nguyen,Male,42,Shenzhen,South China,Silver,2026-04-30,Warehouse Outlet,1
+M00059,Jody Jacobs,Female,19,Changsha,Central China,Silver,2022-09-29,Mall Warehouse,1
+M00060,Sarah Curtis,Female,18,Xiamen,South China,Silver,2025-06-04,Warehouse Outlet,1
+M00061,Cindy Hayes,Male,27,Suzhou,East China,Silver,2023-04-06,Mall Warehouse,1
+M00062,Jesse Perry,Unknown,37,Xi'an,West China,Silver,2022-09-23,Shopping Center Warehouse,1
+M00063,Maurice Brooks,Female,27,Beijing,North China,Silver,2022-12-17,Pop-up Clearance Warehouse,1
+M00064,Andrea Decker,Male,34,Chengdu,West China,Silver,2022-09-21,Warehouse Outlet,1
+M00065,Parker Cain,Male,33,Changsha,Central China,Gold,2024-07-28,Shopping Center Warehouse,1
+M00066,Kristina Rivera,Male,42,Tianjin,North China,Silver,2022-11-02,Warehouse Outlet,1
+M00067,Maurice Christensen,Female,51,Shenzhen,South China,Gold,2025-10-27,Warehouse Outlet,1
+M00068,Tracy Burke,Female,41,Nanjing,East China,Diamond,2023-10-03,Warehouse Outlet,1
+M00069,Christy Douglas,Male,41,Xi'an,West China,Gold,2023-03-31,Warehouse Outlet,1
+M00070,Ryan Richardson,Male,42,Chengdu,West China,Gold,2025-05-26,Warehouse Outlet,1
+M00071,Renee Bruce,Unknown,36,Shanghai,East China,Platinum,2026-03-31,Warehouse Outlet,1
+M00072,Lisa Day,Male,41,Wuhan,Central China,Gold,2022-06-15,Shopping Center Warehouse,1
+M00073,Sandra Adams,Female,38,Xi'an,West China,Platinum,2023-01-26,Community Warehouse,1
+M00074,Ellen Morgan,Male,31,Shanghai,East China,Gold,2022-05-16,Warehouse Outlet,1
+M00075,Kylie Morales,Male,27,Changsha,Central China,Platinum,2022-12-01,Warehouse Outlet,1
+M00076,Amanda Reese,Female,28,Hangzhou,East China,Silver,2023-03-18,Community Warehouse,1
+M00077,Glen Wood,Male,31,Chengdu,West China,Gold,2025-03-27,Community Warehouse,1
+M00078,Latoya Miller,Female,31,Xi'an,West China,Platinum,2022-07-23,Shopping Center Warehouse,1
+M00079,Luke Craig,Female,38,Hangzhou,East China,Silver,2023-06-09,Warehouse Outlet,1
+M00080,Karla Ramos,Male,31,Suzhou,East China,Diamond,2023-06-11,Community Warehouse,1
+M00081,Ashley Jordan,Female,38,Chengdu,West China,Gold,2023-06-25,Shopping Center Warehouse,1
+M00082,Katelyn Estrada,Female,29,Xi'an,West China,Silver,2022-07-13,Shopping Center Warehouse,1
+M00083,Kyle Smith,Female,34,Guangzhou,South China,Silver,2023-07-22,Community Warehouse,1
+M00084,Chad Scott,Male,27,Chengdu,West China,Diamond,2023-08-30,Mall Warehouse,1
+M00085,Paul Thompson,Female,24,Chongqing,West China,Platinum,2023-11-14,Community Warehouse,1
+M00086,Kathryn Whitaker,Female,41,Shanghai,East China,Silver,2025-07-28,Mall Warehouse,1
+M00087,Scott Williams,Male,34,Wuhan,Central China,Silver,2022-06-04,Shopping Center Warehouse,1
+M00088,Shannon Johnston,Female,21,Chengdu,West China,Platinum,2024-08-22,Mall Warehouse,1
+M00089,Jennifer Wilson,Female,33,Guangzhou,South China,Gold,2022-06-07,Warehouse Outlet,1
+M00090,Robert Montgomery,Female,31,Shanghai,East China,Silver,2025-09-04,Warehouse Outlet,0
+M00091,Anita Richard,Female,45,Beijing,North China,Gold,2023-04-28,Warehouse Outlet,1
+M00092,Kelly Foster,Female,36,Nanjing,East China,Gold,2023-08-04,Shopping Center Warehouse,1
+M00093,Gary Jackson,Female,27,Shenzhen,South China,Gold,2024-05-22,Shopping Center Warehouse,0
+M00094,Jordan Bullock,Male,42,Beijing,North China,Gold,2023-09-30,Shopping Center Warehouse,1
+M00095,Sabrina Briggs,Unknown,31,Shanghai,East China,Silver,2023-04-18,Warehouse Outlet,1
+M00096,Craig Morrison,Unknown,33,Beijing,North China,Silver,2025-05-22,Warehouse Outlet,1
+M00097,Cassandra Mejia,Female,26,Tianjin,North China,Silver,2024-04-28,Warehouse Outlet,1
+M00098,Olivia Cole,Male,24,Beijing,North China,Platinum,2026-01-17,Shopping Center Warehouse,1
+M00099,Madison Weber,Male,25,Xi'an,West China,Gold,2025-10-21,Warehouse Outlet,1
+M00100,Brittany Jones,Male,31,Changsha,Central China,Silver,2024-02-13,Pop-up Clearance Warehouse,1
+M00101,Donald Brown,Male,24,Nanjing,East China,Gold,2024-05-18,Warehouse Outlet,1
+M00102,Jesse Brown,Male,36,Guangzhou,South China,Silver,2025-09-04,Shopping Center Warehouse,1
+M00103,Sean Wyatt,Female,30,Shenzhen,South China,Silver,2024-10-22,Mall Warehouse,1
+M00104,Julie Spencer,Unknown,37,Beijing,North China,Silver,2025-07-07,Mall Warehouse,0
+M00105,Joanna Pacheco,Male,24,Suzhou,East China,Silver,2024-12-15,Warehouse Outlet,1
+M00106,John Hernandez,Female,48,Xi'an,West China,Silver,2022-08-06,Shopping Center Warehouse,0
+M00107,Steven Cooper,Female,43,Qingdao,North China,Silver,2025-03-16,Community Warehouse,1
+M00108,Carrie Wright,Female,38,Chongqing,West China,Silver,2024-02-06,Mall Warehouse,1
+M00109,Joseph Moore,Male,19,Hangzhou,East China,Platinum,2023-11-03,Warehouse Outlet,1
+M00110,Jason Morgan,Male,26,Suzhou,East China,Silver,2024-09-27,Shopping Center Warehouse,0
+M00111,Maria Jones,Female,33,Chongqing,West China,Gold,2022-09-23,Mall Warehouse,1
+M00112,Diane Cummings,Female,42,Guangzhou,South China,Silver,2024-12-22,Mall Warehouse,1
+M00113,Shelley Cook,Female,25,Wuhan,Central China,Platinum,2024-09-05,Mall Warehouse,0
+M00114,Gregory Ponce,Male,27,Hangzhou,East China,Silver,2025-02-21,Shopping Center Warehouse,1
+M00115,Kurt Hurley,Female,32,Nanjing,East China,Platinum,2023-08-03,Pop-up Clearance Warehouse,1
+M00116,Rickey Li,Male,26,Shenzhen,South China,Gold,2025-01-11,Warehouse Outlet,1
+M00117,Nancy Jennings,Male,34,Nanjing,East China,Gold,2024-06-15,Warehouse Outlet,1
+M00118,Jessica Cox,Male,30,Shanghai,East China,Diamond,2023-10-19,Shopping Center Warehouse,1
+M00119,Daniel Meza,Male,44,Beijing,North China,Silver,2024-04-17,Community Warehouse,1
+M00120,Chad Jones,Male,33,Xi'an,West China,Gold,2025-09-22,Warehouse Outlet,1
+M00121,Randy Conley,Female,45,Suzhou,East China,Silver,2025-11-19,Warehouse Outlet,1
+M00122,George Miranda,Male,39,Chengdu,West China,Silver,2022-11-15,Warehouse Outlet,1
+M00123,Christopher Guerra,Female,44,Guangzhou,South China,Silver,2025-06-07,Pop-up Clearance Warehouse,1
+M00124,Carol Kim,Female,18,Chengdu,West China,Silver,2023-12-29,Pop-up Clearance Warehouse,1
+M00125,Cynthia Wallace,Male,29,Guangzhou,South China,Silver,2023-06-28,Mall Warehouse,1
+M00126,Joann Ferguson,Female,44,Changsha,Central China,Platinum,2023-08-03,Community Warehouse,1
+M00127,Julie Conley,Male,45,Xi'an,West China,Silver,2023-10-27,Warehouse Outlet,1
+M00128,Victoria Murray,Male,31,Chongqing,West China,Silver,2023-06-23,Warehouse Outlet,1
+M00129,Joseph Burch,Female,30,Changsha,Central China,Gold,2025-08-13,Shopping Center Warehouse,0
+M00130,Brenda Wright,Unknown,31,Xiamen,South China,Silver,2024-11-29,Warehouse Outlet,1
+M00131,Kristen Garcia,Female,21,Suzhou,East China,Silver,2025-09-24,Warehouse Outlet,1
+M00132,Dominique Hines,Female,18,Xiamen,South China,Gold,2023-06-10,Mall Warehouse,1
+M00133,Brittany Kim,Male,34,Xi'an,West China,Silver,2026-02-18,Warehouse Outlet,0
+M00134,Jerry Bailey,Male,18,Changsha,Central China,Gold,2022-06-15,Shopping Center Warehouse,1
+M00135,Jonathan Young,Male,24,Nanjing,East China,Diamond,2026-04-30,Pop-up Clearance Warehouse,1
+M00136,Alfred Galvan,Male,26,Wuhan,Central China,Diamond,2025-09-15,Community Warehouse,1
+M00137,Raven Taylor,Male,37,Tianjin,North China,Gold,2023-07-01,Community Warehouse,1
+M00138,Melissa Taylor,Male,31,Xiamen,South China,Silver,2025-03-03,Community Warehouse,1
+M00139,Aaron Miller,Male,39,Suzhou,East China,Silver,2023-05-16,Warehouse Outlet,1
+M00140,Kimberly Acosta,Unknown,43,Hangzhou,East China,Platinum,2024-06-17,Warehouse Outlet,1
+M00141,Dwayne Turner,Male,32,Suzhou,East China,Gold,2022-07-16,Warehouse Outlet,1
+M00142,Riley Bryant,Unknown,18,Chongqing,West China,Gold,2022-10-16,Warehouse Outlet,1
+M00143,Linda Smith,Male,36,Shanghai,East China,Gold,2024-05-29,Warehouse Outlet,1
+M00144,Charles Patterson,Female,31,Hangzhou,East China,Gold,2024-10-22,Shopping Center Warehouse,1
+M00145,Jason Beck,Female,37,Changsha,Central China,Gold,2022-09-10,Shopping Center Warehouse,1
+M00146,Andrea Fox,Male,36,Shanghai,East China,Silver,2024-05-18,Pop-up Clearance Warehouse,1
+M00147,Kristen Myers DDS,Female,23,Nanjing,East China,Gold,2024-11-21,Warehouse Outlet,1
+M00148,Mrs. Alexis Kramer,Unknown,34,Shenzhen,South China,Silver,2023-09-23,Pop-up Clearance Warehouse,1
+M00149,Lori Ingram,Female,41,Shanghai,East China,Diamond,2025-04-16,Shopping Center Warehouse,0
+M00150,Andrew Payne,Male,18,Nanjing,East China,Silver,2025-08-08,Shopping Center Warehouse,1
+M00151,Richard Marshall,Male,28,Tianjin,North China,Silver,2025-02-16,Warehouse Outlet,1
+M00152,Robin Brown,Female,27,Nanjing,East China,Silver,2025-06-15,Warehouse Outlet,1
+M00153,Edward Williams,Female,26,Chongqing,West China,Gold,2023-02-23,Warehouse Outlet,1
+M00154,Timothy Robertson,Male,41,Qingdao,North China,Silver,2026-04-22,Mall Warehouse,1
+M00155,Dawn Mullins,Male,19,Suzhou,East China,Silver,2023-02-11,Community Warehouse,1
+M00156,Richard Glenn,Female,46,Chengdu,West China,Silver,2023-09-04,Mall Warehouse,1
+M00157,Jacob Preston,Female,30,Wuhan,Central China,Platinum,2025-04-27,Warehouse Outlet,1
+M00158,Jasmine Beltran,Female,61,Wuhan,Central China,Silver,2024-05-01,Warehouse Outlet,1
+M00159,Tim Stone PhD,Female,29,Tianjin,North China,Silver,2025-04-04,Warehouse Outlet,1
+M00160,Lance Short,Male,30,Xi'an,West China,Silver,2024-07-12,Warehouse Outlet,1
+M00161,Bobby Guerrero,Male,34,Tianjin,North China,Platinum,2023-07-29,Shopping Center Warehouse,1
+M00162,Jessica Norris,Male,28,Wuhan,Central China,Silver,2023-10-03,Shopping Center Warehouse,1
+M00163,Sergio Gomez,Male,29,Shenzhen,South China,Silver,2026-05-05,Shopping Center Warehouse,1
+M00164,William Gould,Female,37,Xiamen,South China,Gold,2022-08-25,Warehouse Outlet,0
+M00165,Heidi Owen,Male,32,Chongqing,West China,Silver,2025-01-24,Community Warehouse,1
+M00166,Brenda Lawson,Male,42,Hangzhou,East China,Silver,2025-06-22,Warehouse Outlet,1
+M00167,Austin Osborne,Female,28,Hangzhou,East China,Silver,2023-10-25,Shopping Center Warehouse,1
+M00168,Keith Jacobs,Male,43,Chongqing,West China,Silver,2025-01-24,Mall Warehouse,1
+M00169,Jacqueline Hines,Male,32,Qingdao,North China,Platinum,2024-08-23,Mall Warehouse,1
+M00170,Jennifer Banks,Male,40,Changsha,Central China,Silver,2023-05-07,Mall Warehouse,1
+M00171,Noah Porter,Male,22,Shanghai,East China,Silver,2023-11-24,Warehouse Outlet,1
+M00172,Deborah Green,Female,28,Guangzhou,South China,Silver,2024-02-19,Warehouse Outlet,1
+M00173,Donna Hendricks DDS,Unknown,30,Chongqing,West China,Silver,2022-11-03,Warehouse Outlet,1
+M00174,Jodi Roach,Female,25,Chengdu,West China,Gold,2024-02-17,Warehouse Outlet,1
+M00175,Michael Bruce,Female,30,Chengdu,West China,Gold,2023-08-17,Mall Warehouse,1
+M00176,Austin Daniels,Unknown,32,Changsha,Central China,Silver,2025-11-30,Shopping Center Warehouse,1
+M00177,Michelle Ho,Unknown,29,Suzhou,East China,Gold,2024-11-24,Warehouse Outlet,1
+M00178,Katie Martinez,Female,18,Shenzhen,South China,Silver,2023-02-25,Community Warehouse,1
+M00179,Richard Johnson,Female,19,Xiamen,South China,Silver,2024-07-25,Mall Warehouse,1
+M00180,Robert Arnold,Male,29,Xiamen,South China,Silver,2024-10-18,Warehouse Outlet,1
+M00181,Eric Key,Male,27,Chongqing,West China,Silver,2025-03-23,Warehouse Outlet,1
+M00182,Patricia Morrow,Female,41,Qingdao,North China,Platinum,2022-08-23,Community Warehouse,1
+M00183,Maria Cole,Male,27,Chongqing,West China,Gold,2025-01-25,Mall Warehouse,1
+M00184,Shawn Deleon,Male,27,Beijing,North China,Gold,2024-11-27,Warehouse Outlet,1
+M00185,Vincent Reynolds,Male,31,Qingdao,North China,Silver,2025-12-28,Community Warehouse,1
+M00186,Caleb Hernandez,Unknown,35,Beijing,North China,Silver,2023-01-03,Warehouse Outlet,1
+M00187,Michael Reed,Female,39,Beijing,North China,Silver,2026-02-10,Warehouse Outlet,1
+M00188,Sarah King,Male,38,Shanghai,East China,Platinum,2024-11-20,Warehouse Outlet,1
+M00189,Beth Turner,Male,33,Tianjin,North China,Silver,2024-06-25,Pop-up Clearance Warehouse,1
+M00190,Caroline David,Male,27,Xi'an,West China,Platinum,2022-12-19,Community Warehouse,0
+M00191,Michelle Jacobs,Male,22,Chengdu,West China,Gold,2025-09-19,Warehouse Outlet,0
+M00192,Samantha Johnson,Female,34,Xi'an,West China,Platinum,2022-07-13,Shopping Center Warehouse,0
+M00193,Laura Curtis,Male,31,Suzhou,East China,Silver,2025-06-01,Community Warehouse,1
+M00194,Mark Jimenez,Male,24,Shanghai,East China,Platinum,2024-11-09,Warehouse Outlet,1
+M00195,Tyler Webb,Male,29,Guangzhou,South China,Silver,2025-07-26,Mall Warehouse,1
+M00196,Elizabeth Jones,Male,36,Shanghai,East China,Silver,2022-08-03,Warehouse Outlet,1
+M00197,John Harris,Female,21,Beijing,North China,Silver,2024-10-10,Community Warehouse,1
+M00198,Nathan Gross,Female,18,Xi'an,West China,Platinum,2025-10-16,Mall Warehouse,1
+M00199,Bianca Wood,Male,35,Changsha,Central China,Platinum,2024-08-05,Warehouse Outlet,1
+M00200,John Adams,Female,37,Xi'an,West China,Silver,2023-05-05,Warehouse Outlet,0
+M00201,Dylan Cruz,Male,35,Hangzhou,East China,Gold,2024-10-23,Warehouse Outlet,1
+M00202,Sean Moore,Male,32,Guangzhou,South China,Silver,2023-08-29,Warehouse Outlet,1
+M00203,Emily Hines,Female,36,Nanjing,East China,Gold,2024-05-04,Shopping Center Warehouse,1
+M00204,Kathleen Parker,Male,52,Nanjing,East China,Silver,2022-06-10,Mall Warehouse,0
+M00205,Kathy Levy,Male,28,Chengdu,West China,Silver,2023-03-18,Pop-up Clearance Warehouse,0
+M00206,Anthony Simpson,Male,27,Changsha,Central China,Gold,2025-11-17,Pop-up Clearance Warehouse,1
+M00207,Julie Herrera,Female,25,Nanjing,East China,Silver,2025-09-26,Mall Warehouse,1
+M00208,Stephen Luna,Male,40,Shanghai,East China,Platinum,2025-05-27,Warehouse Outlet,1
+M00209,James Hudson,Male,37,Shanghai,East China,Platinum,2023-02-16,Shopping Center Warehouse,1
+M00210,Angel Gordon,Male,38,Chongqing,West China,Gold,2025-05-28,Warehouse Outlet,1
+M00211,William Becker,Male,41,Nanjing,East China,Silver,2022-10-28,Community Warehouse,1
+M00212,Jennifer Norton,Unknown,31,Tianjin,North China,Silver,2023-09-15,Warehouse Outlet,1
+M00213,Nicole Gonzalez,Unknown,35,Xiamen,South China,Gold,2024-05-20,Mall Warehouse,1
+M00214,Amber Taylor,Female,35,Chongqing,West China,Silver,2023-09-06,Shopping Center Warehouse,1
+M00215,Jesus Obrien,Male,26,Changsha,Central China,Silver,2024-05-30,Mall Warehouse,1
+M00216,Louis Martin,Unknown,38,Beijing,North China,Silver,2026-04-24,Community Warehouse,0
+M00217,Elizabeth Rogers,Female,29,Nanjing,East China,Gold,2025-08-30,Shopping Center Warehouse,1
+M00218,Michelle Evans,Male,23,Chongqing,West China,Gold,2025-08-11,Warehouse Outlet,1
+M00219,Michael Whitney,Female,32,Beijing,North China,Gold,2024-09-06,Community Warehouse,0
+M00220,Molly Watts,Female,31,Xi'an,West China,Silver,2022-06-15,Warehouse Outlet,0
+M00221,Walter Patton,Female,29,Shenzhen,South China,Silver,2025-06-14,Pop-up Clearance Warehouse,1
+M00222,Mikayla Silva,Female,33,Suzhou,East China,Diamond,2023-01-12,Pop-up Clearance Warehouse,1
+M00223,Lisa Randall,Male,20,Hangzhou,East China,Silver,2022-12-09,Shopping Center Warehouse,0
+M00224,Amanda Vaughan,Female,27,Beijing,North China,Silver,2022-10-15,Warehouse Outlet,1
+M00225,Erik Hernandez,Female,31,Xiamen,South China,Platinum,2025-02-09,Warehouse Outlet,1
+M00226,Reginald Knapp,Unknown,26,Changsha,Central China,Silver,2025-11-03,Warehouse Outlet,1
+M00227,Amy Taylor,Female,18,Guangzhou,South China,Silver,2023-03-06,Shopping Center Warehouse,1
+M00228,Matthew Fox,Female,28,Chongqing,West China,Silver,2023-08-09,Pop-up Clearance Warehouse,1
+M00229,Thomas Peterson,Male,32,Tianjin,North China,Silver,2023-10-07,Mall Warehouse,1
+M00230,Michelle Schneider,Male,33,Changsha,Central China,Gold,2025-02-13,Warehouse Outlet,0
+M00231,Cheryl Wright,Male,18,Wuhan,Central China,Gold,2024-07-31,Mall Warehouse,1
+M00232,William Evans,Male,36,Wuhan,Central China,Platinum,2023-07-04,Warehouse Outlet,1
+M00233,Michael Stewart,Male,39,Beijing,North China,Silver,2023-09-29,Warehouse Outlet,1
+M00234,Rebecca Hill,Female,29,Shanghai,East China,Gold,2022-11-02,Mall Warehouse,1
+M00235,Jamie Baird,Female,35,Shenzhen,South China,Gold,2025-08-15,Mall Warehouse,1
+M00236,Regina Roberts,Male,31,Qingdao,North China,Diamond,2023-07-02,Shopping Center Warehouse,1
+M00237,Hannah Ramos,Female,45,Guangzhou,South China,Gold,2023-05-17,Warehouse Outlet,1
+M00238,Dale Ryan,Male,33,Chengdu,West China,Gold,2026-01-30,Pop-up Clearance Warehouse,1
+M00239,Breanna Gilbert,Male,31,Qingdao,North China,Gold,2024-09-11,Mall Warehouse,1
+M00240,Michael Schmidt,Male,34,Changsha,Central China,Gold,2024-11-25,Mall Warehouse,1
+M00241,Jason Love,Male,32,Changsha,Central China,Silver,2022-10-01,Mall Warehouse,0
+M00242,Abigail Pierce,Male,56,Tianjin,North China,Platinum,2026-01-24,Community Warehouse,1
+M00243,Timothy Johns,Male,21,Xi'an,West China,Gold,2024-04-04,Community Warehouse,1
+M00244,Victor Morris,Female,43,Xiamen,South China,Silver,2024-12-06,Pop-up Clearance Warehouse,1
+M00245,Ann Andrews,Female,25,Xiamen,South China,Silver,2024-06-27,Warehouse Outlet,1
+M00246,Taylor Gentry,Female,21,Hangzhou,East China,Diamond,2023-01-18,Community Warehouse,1
+M00247,Casey Gillespie,Male,47,Beijing,North China,Gold,2026-05-03,Mall Warehouse,1
+M00248,Jon Zuniga,Male,24,Shanghai,East China,Silver,2026-03-13,Shopping Center Warehouse,1
+M00249,Sherri Smith,Female,34,Qingdao,North China,Platinum,2024-08-14,Community Warehouse,1
+M00250,William Mitchell,Male,18,Chongqing,West China,Gold,2026-04-22,Shopping Center Warehouse,1
+M00251,Kathleen Mays,Male,28,Hangzhou,East China,Silver,2025-10-02,Warehouse Outlet,0
+M00252,Corey Rodriguez,Female,18,Nanjing,East China,Platinum,2022-12-31,Warehouse Outlet,1
+M00253,David Lopez,Female,40,Nanjing,East China,Silver,2025-04-18,Warehouse Outlet,1
+M00254,Laura Todd,Male,44,Chengdu,West China,Silver,2023-01-19,Community Warehouse,1
+M00255,Stephanie Wilcox,Female,34,Shanghai,East China,Silver,2024-05-29,Shopping Center Warehouse,0
+M00256,Michael Lopez,Unknown,36,Suzhou,East China,Platinum,2022-11-29,Warehouse Outlet,1
+M00257,David Green,Female,39,Qingdao,North China,Diamond,2023-04-17,Community Warehouse,1
+M00258,Tiffany Turner,Female,45,Nanjing,East China,Gold,2025-03-29,Shopping Center Warehouse,1
+M00259,Matthew Schwartz,Female,44,Shanghai,East China,Gold,2022-08-06,Warehouse Outlet,1
+M00260,Eric Sullivan,Male,37,Suzhou,East China,Silver,2024-05-11,Warehouse Outlet,1
+M00261,Michele Collins,Female,39,Beijing,North China,Gold,2022-10-26,Mall Warehouse,1
+M00262,Elizabeth Mendez,Female,28,Wuhan,Central China,Silver,2023-03-24,Community Warehouse,1
+M00263,Christian Adkins,Male,22,Suzhou,East China,Silver,2024-10-08,Community Warehouse,1
+M00264,Joshua Ruiz,Unknown,18,Wuhan,Central China,Platinum,2024-07-01,Warehouse Outlet,1
+M00265,Colleen Wright,Male,25,Changsha,Central China,Platinum,2025-05-14,Shopping Center Warehouse,1
+M00266,Angela Griffin,Female,39,Guangzhou,South China,Gold,2025-03-01,Warehouse Outlet,0
+M00267,Justin Brown,Male,45,Tianjin,North China,Gold,2024-07-16,Shopping Center Warehouse,1
+M00268,Laura Hernandez,Male,25,Guangzhou,South China,Silver,2023-08-30,Mall Warehouse,1
+M00269,Audrey Harris,Female,38,Hangzhou,East China,Silver,2024-09-05,Community Warehouse,1
+M00270,Jordan Stokes,Male,42,Qingdao,North China,Silver,2024-02-29,Shopping Center Warehouse,1
+M00271,Joyce Brown,Female,32,Tianjin,North China,Silver,2024-03-13,Shopping Center Warehouse,0
+M00272,Miranda Foster,Female,26,Shenzhen,South China,Gold,2025-08-12,Shopping Center Warehouse,1
+M00273,Laura Williams,Female,18,Wuhan,Central China,Silver,2023-09-23,Shopping Center Warehouse,1
+M00274,Zachary Michael,Male,22,Xiamen,South China,Diamond,2022-08-16,Warehouse Outlet,1
+M00275,Amanda Ortiz,Female,22,Hangzhou,East China,Gold,2025-06-04,Warehouse Outlet,1
+M00276,Veronica Brewer,Male,32,Beijing,North China,Gold,2024-01-12,Shopping Center Warehouse,1
+M00277,Janet Kane DVM,Male,31,Xi'an,West China,Silver,2023-11-07,Warehouse Outlet,1
+M00278,Mary Ryan,Unknown,31,Nanjing,East China,Gold,2024-12-17,Mall Warehouse,1
+M00279,Christopher Medina,Female,34,Beijing,North China,Gold,2024-06-18,Warehouse Outlet,1
+M00280,Courtney Smith,Male,27,Wuhan,Central China,Diamond,2022-06-10,Shopping Center Warehouse,1
+M00281,Michael Stephens,Male,36,Chongqing,West China,Platinum,2024-06-23,Shopping Center Warehouse,1
+M00282,Danielle Reed,Male,22,Suzhou,East China,Gold,2023-06-14,Community Warehouse,1
+M00283,Molly Rodriguez,Female,31,Xi'an,West China,Platinum,2025-08-02,Pop-up Clearance Warehouse,1
+M00284,Ralph Stephenson,Female,23,Hangzhou,East China,Silver,2022-05-30,Shopping Center Warehouse,1
+M00285,Brian Johnson,Male,24,Shenzhen,South China,Gold,2024-09-27,Warehouse Outlet,0
+M00286,Amber Yang,Female,26,Chengdu,West China,Silver,2023-12-16,Shopping Center Warehouse,1
+M00287,Daniel Shields,Female,33,Xi'an,West China,Gold,2022-07-29,Pop-up Clearance Warehouse,1
+M00288,Donna Cabrera,Female,34,Tianjin,North China,Silver,2025-04-10,Mall Warehouse,1
+M00289,Kyle Chambers,Male,34,Beijing,North China,Silver,2023-08-19,Shopping Center Warehouse,0
+M00290,Charles Keller,Female,44,Wuhan,Central China,Diamond,2023-03-26,Warehouse Outlet,1
+M00291,Antonio Fry,Male,44,Hangzhou,East China,Gold,2025-11-13,Shopping Center Warehouse,1
+M00292,Lori Simmons,Male,35,Xiamen,South China,Gold,2024-05-01,Mall Warehouse,1
+M00293,Teresa Powers,Female,33,Chongqing,West China,Silver,2025-06-29,Shopping Center Warehouse,1
+M00294,Jason Hernandez,Female,37,Nanjing,East China,Silver,2023-11-09,Shopping Center Warehouse,1
+M00295,Kara Atkinson,Female,30,Qingdao,North China,Silver,2023-07-21,Shopping Center Warehouse,1
+M00296,Renee Melendez,Male,31,Qingdao,North China,Platinum,2024-08-06,Warehouse Outlet,1
+M00297,Kristin Anderson,Unknown,23,Chengdu,West China,Silver,2023-04-27,Shopping Center Warehouse,1
+M00298,Matthew Nielsen,Female,29,Guangzhou,South China,Platinum,2025-09-26,Mall Warehouse,1
+M00299,Nathaniel Lee,Female,30,Qingdao,North China,Gold,2023-06-04,Community Warehouse,1
+M00300,Lindsey Russo,Female,35,Tianjin,North China,Platinum,2023-02-06,Shopping Center Warehouse,1
+M00301,Misty Hansen,Unknown,28,Tianjin,North China,Silver,2024-04-07,Mall Warehouse,0
+M00302,Felicia Krueger,Male,27,Nanjing,East China,Silver,2022-05-30,Community Warehouse,1
+M00303,Tonya Wilson,Female,37,Nanjing,East China,Platinum,2026-05-07,Shopping Center Warehouse,1
+M00304,David Munoz,Male,37,Wuhan,Central China,Silver,2023-03-02,Warehouse Outlet,0
+M00305,Kristen Rowe,Female,22,Xi'an,West China,Platinum,2023-11-15,Warehouse Outlet,1
+M00306,Heather Green,Female,43,Guangzhou,South China,Silver,2024-05-26,Pop-up Clearance Warehouse,1
+M00307,Brett Zavala MD,Male,32,Qingdao,North China,Gold,2025-09-15,Community Warehouse,1
+M00308,Jacqueline Gutierrez,Male,35,Tianjin,North China,Gold,2024-08-06,Shopping Center Warehouse,1
+M00309,Charles Green,Female,40,Xiamen,South China,Platinum,2026-02-01,Warehouse Outlet,1
+M00310,Jennifer Hernandez,Female,49,Tianjin,North China,Silver,2023-09-01,Warehouse Outlet,0
+M00311,Roy Porter,Male,40,Qingdao,North China,Gold,2024-12-19,Pop-up Clearance Warehouse,1
+M00312,Dawn Underwood,Unknown,35,Chongqing,West China,Gold,2026-03-20,Warehouse Outlet,1
+M00313,Katherine Jackson,Male,45,Shanghai,East China,Silver,2025-07-12,Mall Warehouse,1
+M00314,Nathan Freeman,Female,50,Shenzhen,South China,Silver,2026-01-06,Mall Warehouse,1
+M00315,Maria Brown,Female,31,Shanghai,East China,Platinum,2022-06-26,Mall Warehouse,1
+M00316,Theresa Barnett,Male,29,Nanjing,East China,Gold,2025-05-28,Mall Warehouse,1
+M00317,Ryan Hall,Female,29,Tianjin,North China,Diamond,2025-03-06,Community Warehouse,1
+M00318,Jonathan Brooks,Male,43,Shanghai,East China,Silver,2024-10-26,Warehouse Outlet,1
+M00319,Lisa Webb,Female,39,Chongqing,West China,Silver,2024-04-19,Community Warehouse,1
+M00320,Juan Smith,Female,39,Xi'an,West China,Gold,2024-06-19,Pop-up Clearance Warehouse,1
+M00321,William Smith,Female,41,Xi'an,West China,Silver,2025-08-08,Warehouse Outlet,0
+M00322,Renee Browning,Male,35,Chongqing,West China,Gold,2022-10-11,Mall Warehouse,1
+M00323,Chase Lee,Female,34,Wuhan,Central China,Silver,2024-06-15,Mall Warehouse,1
+M00324,Debra Sanders,Female,31,Beijing,North China,Diamond,2023-11-04,Warehouse Outlet,1
+M00325,Karl Branch,Male,41,Changsha,Central China,Silver,2023-04-02,Mall Warehouse,1
+M00326,Sarah Valdez,Unknown,39,Chengdu,West China,Diamond,2025-10-12,Warehouse Outlet,1
+M00327,Anna Gray,Male,51,Shenzhen,South China,Gold,2024-07-23,Mall Warehouse,1
+M00328,Adam Jackson,Unknown,35,Shenzhen,South China,Platinum,2024-05-07,Warehouse Outlet,1
+M00329,Richard Knight,Male,28,Nanjing,East China,Platinum,2025-10-12,Warehouse Outlet,1
+M00330,Joseph Williams,Female,25,Chongqing,West China,Silver,2023-03-12,Community Warehouse,1
+M00331,Stacy Alvarez,Male,28,Qingdao,North China,Silver,2022-07-15,Community Warehouse,1
+M00332,Timothy Lam,Female,51,Tianjin,North China,Silver,2024-08-08,Shopping Center Warehouse,1
+M00333,Timothy Edwards,Male,34,Beijing,North China,Silver,2026-03-12,Warehouse Outlet,1
+M00334,Nicole Marquez,Male,26,Qingdao,North China,Silver,2023-12-10,Warehouse Outlet,1
+M00335,Christopher Allen,Male,39,Wuhan,Central China,Silver,2025-09-08,Warehouse Outlet,1
+M00336,Steven Rivera,Female,40,Hangzhou,East China,Silver,2025-05-15,Warehouse Outlet,1
+M00337,William Ramsey,Male,22,Nanjing,East China,Gold,2024-05-08,Warehouse Outlet,1
+M00338,Amy Kim,Female,22,Beijing,North China,Gold,2025-09-14,Warehouse Outlet,1
+M00339,Randy Friedman,Male,18,Qingdao,North China,Gold,2023-12-08,Shopping Center Warehouse,0
+M00340,Alyssa Nelson,Female,24,Chongqing,West China,Silver,2026-04-27,Warehouse Outlet,1
+M00341,Henry Pugh MD,Male,32,Tianjin,North China,Silver,2025-01-25,Mall Warehouse,1
+M00342,Angelica Montgomery,Male,35,Nanjing,East China,Silver,2025-07-16,Community Warehouse,1
+M00343,Angela Moore,Female,51,Qingdao,North China,Gold,2025-03-12,Shopping Center Warehouse,1
+M00344,Nancy Stewart,Male,41,Suzhou,East China,Silver,2022-10-10,Shopping Center Warehouse,1
+M00345,Eric Ward,Female,33,Xiamen,South China,Silver,2023-06-06,Mall Warehouse,1
+M00346,Cody Cole,Female,45,Guangzhou,South China,Silver,2024-07-26,Community Warehouse,1
+M00347,Alexander Gomez,Unknown,28,Beijing,North China,Gold,2022-09-20,Warehouse Outlet,1
+M00348,Erika Cruz,Male,24,Tianjin,North China,Gold,2023-07-08,Community Warehouse,1
+M00349,Bradley Santana,Male,23,Shenzhen,South China,Silver,2025-12-20,Mall Warehouse,1
+M00350,Laura Jackson,Female,18,Tianjin,North China,Gold,2023-11-15,Warehouse Outlet,1
+M00351,Eric Snyder,Male,35,Wuhan,Central China,Platinum,2022-08-08,Shopping Center Warehouse,1
+M00352,Jason Washington,Male,26,Hangzhou,East China,Gold,2022-08-28,Mall Warehouse,1
+M00353,David Weber,Female,33,Hangzhou,East China,Silver,2024-09-21,Warehouse Outlet,1
+M00354,Brian Torres,Male,34,Wuhan,Central China,Silver,2026-02-22,Shopping Center Warehouse,0
+M00355,Manuel Brock,Unknown,32,Changsha,Central China,Gold,2023-09-01,Pop-up Clearance Warehouse,0
+M00356,Robert Villarreal,Male,24,Qingdao,North China,Gold,2026-03-31,Community Warehouse,0
+M00357,Frank Valentine,Male,33,Beijing,North China,Gold,2023-02-25,Shopping Center Warehouse,1
+M00358,Vincent Novak,Unknown,42,Wuhan,Central China,Silver,2023-07-07,Pop-up Clearance Warehouse,1
+M00359,Katherine Johnston,Male,39,Suzhou,East China,Silver,2023-04-27,Warehouse Outlet,1
+M00360,Robert Long,Female,46,Beijing,North China,Gold,2022-10-21,Warehouse Outlet,1
+M00361,Leslie Gardner,Male,34,Xiamen,South China,Gold,2025-01-27,Shopping Center Warehouse,1
+M00362,Tiffany Murray,Unknown,27,Suzhou,East China,Silver,2025-03-07,Warehouse Outlet,1
+M00363,Eddie Schwartz,Female,38,Chengdu,West China,Platinum,2025-08-16,Pop-up Clearance Warehouse,1
+M00364,Jennifer Porter,Female,21,Suzhou,East China,Silver,2024-11-18,Shopping Center Warehouse,1
+M00365,Matthew Espinoza,Female,38,Nanjing,East China,Silver,2025-07-03,Mall Warehouse,1
+M00366,William Mendoza,Male,38,Nanjing,East China,Silver,2023-12-14,Community Warehouse,1
+M00367,Tami Holt,Male,29,Changsha,Central China,Silver,2024-07-10,Mall Warehouse,1
+M00368,Heather Woodard,Male,43,Xiamen,South China,Silver,2024-06-30,Mall Warehouse,1
+M00369,Angela Mack,Male,30,Guangzhou,South China,Silver,2024-12-23,Shopping Center Warehouse,1
+M00370,Matthew Williams,Female,32,Suzhou,East China,Silver,2026-04-14,Warehouse Outlet,1
+M00371,Jennifer Goodwin,Female,29,Changsha,Central China,Silver,2026-03-18,Shopping Center Warehouse,1
+M00372,Adam Green,Unknown,40,Hangzhou,East China,Silver,2024-05-23,Mall Warehouse,1
+M00373,Lauren Johnston,Female,20,Chongqing,West China,Gold,2024-02-18,Community Warehouse,1
+M00374,Raymond Chapman,Female,28,Guangzhou,South China,Gold,2024-05-08,Warehouse Outlet,1
+M00375,Alexander Garcia,Male,20,Nanjing,East China,Silver,2024-01-05,Warehouse Outlet,1
+M00376,Audrey Shepard,Male,27,Wuhan,Central China,Diamond,2022-11-30,Warehouse Outlet,1
+M00377,Jesse Clark,Female,53,Qingdao,North China,Diamond,2024-04-12,Shopping Center Warehouse,0
+M00378,Jeffrey Horton,Female,27,Hangzhou,East China,Silver,2023-08-16,Pop-up Clearance Warehouse,1
+M00379,Robert Wilson,Male,41,Hangzhou,East China,Gold,2025-09-29,Community Warehouse,1
+M00380,Megan Martin,Female,46,Beijing,North China,Silver,2026-04-14,Warehouse Outlet,1
+M00381,Christopher Moore,Female,19,Shenzhen,South China,Silver,2024-08-02,Community Warehouse,1
+M00382,Crystal Sullivan,Male,32,Changsha,Central China,Silver,2023-02-01,Warehouse Outlet,1
+M00383,Jessica Johnson,Female,26,Xi'an,West China,Gold,2024-10-21,Warehouse Outlet,0
+M00384,Kevin Price,Male,26,Chengdu,West China,Silver,2025-03-02,Shopping Center Warehouse,1
+M00385,Paul Stokes,Female,45,Tianjin,North China,Platinum,2022-08-07,Community Warehouse,1
+M00386,Shane Lopez,Male,29,Beijing,North China,Gold,2023-08-27,Shopping Center Warehouse,1
+M00387,Dennis Huffman,Unknown,18,Nanjing,East China,Silver,2024-06-16,Mall Warehouse,0
+M00388,Linda Carr,Female,36,Hangzhou,East China,Silver,2024-09-11,Mall Warehouse,0
+M00389,Ryan Williamson,Unknown,47,Hangzhou,East China,Gold,2025-08-08,Shopping Center Warehouse,1
+M00390,Elizabeth Mendez,Female,42,Wuhan,Central China,Silver,2022-09-08,Community Warehouse,1
+M00391,Bruce Torres,Female,43,Qingdao,North China,Silver,2023-01-30,Community Warehouse,0
+M00392,Kayla Barnes,Unknown,29,Chongqing,West China,Platinum,2022-11-25,Community Warehouse,1
+M00393,Cody Reid,Female,36,Xiamen,South China,Diamond,2025-02-14,Shopping Center Warehouse,1
+M00394,Zoe Peters,Male,48,Qingdao,North China,Gold,2024-04-22,Shopping Center Warehouse,1
+M00395,Ernest Hayes,Male,19,Chengdu,West China,Silver,2022-07-25,Shopping Center Warehouse,1
+M00396,Adam Taylor,Male,22,Chengdu,West China,Gold,2025-08-11,Warehouse Outlet,1
+M00397,Kathy Simpson,Female,18,Guangzhou,South China,Gold,2025-02-01,Warehouse Outlet,1
+M00398,Ryan Burns,Female,34,Shenzhen,South China,Diamond,2022-09-05,Mall Warehouse,1
+M00399,Philip Carter,Male,23,Shanghai,East China,Platinum,2023-06-13,Shopping Center Warehouse,1
+M00400,Carol Ellis,Female,18,Xiamen,South China,Platinum,2025-04-26,Shopping Center Warehouse,0
+M00401,Krista Wilson,Female,22,Shenzhen,South China,Gold,2022-10-21,Warehouse Outlet,1
+M00402,Samantha Richardson,Female,29,Tianjin,North China,Silver,2025-08-21,Warehouse Outlet,1
+M00403,Nathan Payne,Female,22,Shenzhen,South China,Platinum,2026-04-23,Community Warehouse,1
+M00404,Ronald Potter,Female,28,Tianjin,North China,Silver,2023-07-16,Warehouse Outlet,1
+M00405,Mrs. Hannah Montoya MD,Female,31,Shanghai,East China,Platinum,2026-04-29,Mall Warehouse,1
+M00406,Cynthia Cochran,Male,28,Beijing,North China,Silver,2024-09-12,Warehouse Outlet,1
+M00407,Michael Chen,Female,37,Qingdao,North China,Gold,2023-01-05,Pop-up Clearance Warehouse,1
+M00408,Daniel Clark,Male,31,Wuhan,Central China,Gold,2022-08-02,Community Warehouse,1
+M00409,Douglas Ryan,Male,44,Nanjing,East China,Silver,2023-08-23,Pop-up Clearance Warehouse,1
+M00410,Donna Adams,Female,19,Wuhan,Central China,Silver,2025-10-12,Shopping Center Warehouse,1
+M00411,Miss Anna Estes,Male,41,Changsha,Central China,Gold,2025-06-28,Pop-up Clearance Warehouse,1
+M00412,Wendy Camacho,Male,21,Xi'an,West China,Diamond,2022-11-09,Warehouse Outlet,1
+M00413,Danielle Dawson,Female,37,Guangzhou,South China,Gold,2025-08-30,Mall Warehouse,1
+M00414,Megan Burns,Male,35,Xi'an,West China,Silver,2024-08-28,Community Warehouse,1
+M00415,Jason Hayes,Unknown,30,Xi'an,West China,Silver,2024-11-18,Community Warehouse,1
+M00416,Anna Robertson,Female,47,Wuhan,Central China,Silver,2023-06-18,Warehouse Outlet,1
+M00417,Jackie Clements,Male,22,Chengdu,West China,Diamond,2023-08-29,Mall Warehouse,0
+M00418,Raymond Oconnor,Female,48,Chengdu,West China,Silver,2025-04-09,Mall Warehouse,1
+M00419,Matthew Howard,Male,44,Shanghai,East China,Silver,2022-08-08,Mall Warehouse,1
+M00420,Claudia Jordan,Female,18,Chongqing,West China,Silver,2023-03-13,Community Warehouse,1
+M00421,Ronald Morgan,Unknown,36,Wuhan,Central China,Silver,2024-08-29,Mall Warehouse,1
+M00422,Karina Cooper,Female,30,Xiamen,South China,Silver,2025-01-29,Mall Warehouse,0
+M00423,Brett Bowers,Male,32,Beijing,North China,Gold,2024-03-09,Community Warehouse,1
+M00424,Scott Alexander,Female,18,Changsha,Central China,Gold,2022-05-08,Warehouse Outlet,1
+M00425,Christina Barker,Female,34,Chengdu,West China,Silver,2022-11-16,Mall Warehouse,1
+M00426,Caitlin Cantu,Female,23,Suzhou,East China,Silver,2023-06-12,Warehouse Outlet,1
+M00427,Danielle Watson,Female,33,Xiamen,South China,Gold,2025-12-18,Pop-up Clearance Warehouse,1
+M00428,James Torres,Female,33,Wuhan,Central China,Silver,2025-02-22,Community Warehouse,0
+M00429,Matthew Padilla,Female,57,Shanghai,East China,Diamond,2022-05-09,Warehouse Outlet,1
+M00430,Casey Perez,Female,23,Tianjin,North China,Platinum,2025-01-25,Pop-up Clearance Warehouse,1
+M00431,Michael Montoya,Female,29,Guangzhou,South China,Gold,2026-04-20,Mall Warehouse,0
+M00432,Carlos Jones,Female,52,Chengdu,West China,Silver,2023-11-18,Community Warehouse,1
+M00433,Ashley Edwards,Male,26,Shanghai,East China,Silver,2025-11-15,Warehouse Outlet,1
+M00434,Raymond Mullins,Female,45,Hangzhou,East China,Silver,2022-11-18,Community Warehouse,1
+M00435,Brenda Moreno MD,Male,45,Shanghai,East China,Gold,2024-12-12,Shopping Center Warehouse,1
+M00436,Nathan Fuller,Male,28,Chengdu,West China,Silver,2022-12-15,Mall Warehouse,0
+M00437,Michael Heath,Male,36,Chongqing,West China,Silver,2022-09-11,Community Warehouse,1
+M00438,Paul Lawrence,Male,37,Chongqing,West China,Platinum,2023-11-20,Warehouse Outlet,1
+M00439,Emily Taylor,Male,38,Beijing,North China,Silver,2023-06-16,Shopping Center Warehouse,1
+M00440,Juan Greene,Male,41,Xi'an,West China,Platinum,2024-10-11,Pop-up Clearance Warehouse,1
+M00441,Melissa Abbott,Female,40,Shenzhen,South China,Platinum,2024-12-24,Mall Warehouse,1
+M00442,Joseph Hicks,Female,23,Nanjing,East China,Platinum,2025-05-04,Community Warehouse,1
+M00443,Anthony Hurst,Female,30,Nanjing,East China,Platinum,2026-03-02,Community Warehouse,1
+M00444,Brian Porter MD,Female,27,Chengdu,West China,Silver,2024-06-17,Mall Warehouse,1
+M00445,Victoria Peck,Male,42,Suzhou,East China,Silver,2022-11-16,Community Warehouse,1
+M00446,Laura Diaz,Female,28,Qingdao,North China,Gold,2025-01-29,Warehouse Outlet,0
+M00447,Tiffany Townsend,Male,34,Qingdao,North China,Silver,2022-06-01,Community Warehouse,1
+M00448,Dennis Williams,Male,31,Chengdu,West China,Silver,2022-08-04,Mall Warehouse,1
+M00449,Katie Fuller,Male,41,Nanjing,East China,Gold,2024-05-09,Warehouse Outlet,1
+M00450,Michael Miller,Male,25,Shanghai,East China,Platinum,2024-06-29,Mall Warehouse,1
+M00451,Diamond Collins,Female,23,Xi'an,West China,Silver,2024-05-24,Shopping Center Warehouse,1
+M00452,Robert Herrera,Male,33,Hangzhou,East China,Silver,2023-11-29,Shopping Center Warehouse,1
+M00453,Sandra Becker,Male,31,Shanghai,East China,Silver,2022-08-12,Community Warehouse,1
+M00454,Monica Mathis,Unknown,41,Tianjin,North China,Gold,2022-07-31,Community Warehouse,1
+M00455,Jeffrey Chavez,Male,29,Shenzhen,South China,Gold,2024-10-13,Community Warehouse,1
+M00456,Patrick Yang,Male,23,Wuhan,Central China,Gold,2022-10-29,Community Warehouse,0
+M00457,Meredith Martin,Unknown,48,Beijing,North China,Gold,2026-02-28,Warehouse Outlet,0
+M00458,Rachel Le,Female,30,Chongqing,West China,Silver,2023-01-06,Mall Warehouse,1
+M00459,Richard Adams,Female,43,Nanjing,East China,Gold,2025-11-23,Shopping Center Warehouse,1
+M00460,Alyssa Roman,Female,54,Xiamen,South China,Gold,2023-06-09,Shopping Center Warehouse,1
+M00461,Michael Ray,Male,42,Shenzhen,South China,Gold,2022-08-28,Shopping Center Warehouse,1
+M00462,Ian Porter,Male,24,Tianjin,North China,Gold,2024-08-13,Mall Warehouse,1
+M00463,David Garcia,Male,28,Hangzhou,East China,Silver,2024-08-23,Community Warehouse,1
+M00464,Crystal Hicks,Female,20,Xi'an,West China,Silver,2022-07-11,Pop-up Clearance Warehouse,1
+M00465,Dana Ruiz,Male,23,Qingdao,North China,Gold,2023-11-18,Pop-up Clearance Warehouse,1
+M00466,Timothy Mathews,Male,30,Wuhan,Central China,Silver,2024-07-23,Community Warehouse,1
+M00467,Natalie Barnes,Male,32,Guangzhou,South China,Platinum,2023-08-21,Mall Warehouse,1
+M00468,Nathan Nelson,Female,20,Wuhan,Central China,Gold,2022-08-29,Mall Warehouse,1
+M00469,Jonathan Winters,Female,32,Hangzhou,East China,Gold,2023-01-25,Pop-up Clearance Warehouse,1
+M00470,Vicki Finley,Male,25,Nanjing,East China,Silver,2022-08-16,Mall Warehouse,1
+M00471,Douglas Kirk,Unknown,50,Chengdu,West China,Silver,2023-08-29,Shopping Center Warehouse,1
+M00472,Aimee Gonzalez,Female,31,Chengdu,West China,Silver,2024-08-08,Warehouse Outlet,1
+M00473,Marcus Marshall,Female,39,Chengdu,West China,Silver,2024-09-18,Warehouse Outlet,0
+M00474,Raymond Gonzalez DVM,Female,62,Xiamen,South China,Gold,2025-05-23,Mall Warehouse,1
+M00475,Aaron Ortiz,Female,24,Changsha,Central China,Silver,2023-04-13,Warehouse Outlet,0
+M00476,Ryan Wiley,Male,38,Beijing,North China,Silver,2026-02-25,Community Warehouse,0
+M00477,Matthew Sweeney,Male,19,Changsha,Central China,Gold,2025-04-04,Warehouse Outlet,1
+M00478,Joseph Allen,Unknown,31,Changsha,Central China,Platinum,2024-04-25,Mall Warehouse,0
+M00479,Zachary Dawson,Female,31,Wuhan,Central China,Silver,2022-09-20,Warehouse Outlet,1
+M00480,Stephanie Meyer,Female,37,Suzhou,East China,Gold,2025-02-24,Community Warehouse,1
+M00481,William Miller,Male,23,Xiamen,South China,Gold,2022-09-24,Warehouse Outlet,1
+M00482,Robert Jones,Male,18,Suzhou,East China,Silver,2024-08-14,Warehouse Outlet,1
+M00483,Victor Young,Male,24,Nanjing,East China,Silver,2023-05-24,Warehouse Outlet,1
+M00484,Robert Haynes,Male,27,Xiamen,South China,Silver,2025-04-16,Mall Warehouse,1
+M00485,Dillon Jones,Female,21,Beijing,North China,Platinum,2023-02-28,Warehouse Outlet,1
+M00486,Lauren Moore,Unknown,34,Nanjing,East China,Silver,2023-01-03,Shopping Center Warehouse,1
+M00487,Jason Herrera,Male,40,Hangzhou,East China,Silver,2026-03-17,Pop-up Clearance Warehouse,0
+M00488,Eric Baker,Male,39,Guangzhou,South China,Gold,2022-10-30,Warehouse Outlet,1
+M00489,Michael Mckenzie,Female,25,Wuhan,Central China,Platinum,2025-02-19,Warehouse Outlet,1
+M00490,Russell Murphy,Female,25,Nanjing,East China,Silver,2022-09-18,Warehouse Outlet,1
+M00491,Henry Palmer,Male,31,Nanjing,East China,Silver,2025-01-21,Warehouse Outlet,1
+M00492,William Johnson,Male,30,Chongqing,West China,Silver,2023-12-19,Shopping Center Warehouse,1
+M00493,Paul Wright,Male,34,Xi'an,West China,Silver,2024-03-13,Community Warehouse,1
+M00494,Brenda Smith,Female,28,Beijing,North China,Gold,2025-09-02,Warehouse Outlet,1
+M00495,Mrs. Samantha Watson,Female,18,Guangzhou,South China,Platinum,2024-11-13,Shopping Center Warehouse,1
+M00496,Lauren Green,Male,39,Shanghai,East China,Gold,2025-08-07,Warehouse Outlet,1
+M00497,Austin Orr,Male,36,Beijing,North China,Silver,2024-02-14,Mall Warehouse,1
+M00498,Taylor Calderon,Male,40,Xiamen,South China,Gold,2023-09-04,Mall Warehouse,1
+M00499,Joel Jackson,Female,39,Changsha,Central China,Platinum,2024-08-23,Mall Warehouse,1
+M00500,Jennifer Johnson,Female,57,Chengdu,West China,Platinum,2025-01-30,Community Warehouse,1
+M00501,Daniel Lopez,Female,56,Hangzhou,East China,Silver,2023-06-20,Warehouse Outlet,1
+M00502,Amanda Harvey,Female,40,Shanghai,East China,Gold,2023-05-02,Pop-up Clearance Warehouse,1
+M00503,Jason Pierce,Female,30,Shenzhen,South China,Silver,2022-08-05,Pop-up Clearance Warehouse,1
+M00504,Chad Gonzalez,Unknown,27,Chongqing,West China,Silver,2025-11-20,Warehouse Outlet,1
+M00505,Lydia Pham,Male,31,Changsha,Central China,Gold,2025-07-12,Warehouse Outlet,1
+M00506,Rachael Howard DDS,Male,30,Suzhou,East China,Silver,2024-04-15,Shopping Center Warehouse,1
+M00507,Kathryn Price,Female,26,Shanghai,East China,Silver,2023-01-25,Shopping Center Warehouse,1
+M00508,Daniel Huang,Male,29,Nanjing,East China,Platinum,2025-06-18,Shopping Center Warehouse,1
+M00509,William Moreno,Female,25,Chongqing,West China,Silver,2025-06-01,Community Warehouse,1
+M00510,Dr. Ariel Sandoval MD,Female,20,Xiamen,South China,Gold,2025-08-12,Pop-up Clearance Warehouse,0
+M00511,Amy Davies,Female,35,Qingdao,North China,Diamond,2023-03-24,Shopping Center Warehouse,1
+M00512,Rebecca Kelly,Female,30,Xiamen,South China,Gold,2025-09-15,Community Warehouse,1
+M00513,Casey Watkins,Female,29,Suzhou,East China,Diamond,2025-07-28,Warehouse Outlet,1
+M00514,Suzanne Johnson,Male,34,Suzhou,East China,Platinum,2025-02-24,Warehouse Outlet,1
+M00515,Kristy Hart,Male,20,Shanghai,East China,Silver,2023-02-07,Mall Warehouse,1
+M00516,Sierra Vasquez MD,Female,43,Shenzhen,South China,Silver,2024-04-23,Warehouse Outlet,1
+M00517,David Robinson,Female,56,Guangzhou,South China,Silver,2024-06-15,Warehouse Outlet,1
+M00518,Thomas Harris,Male,29,Changsha,Central China,Gold,2022-11-14,Shopping Center Warehouse,1
+M00519,Tamara Richard,Female,22,Wuhan,Central China,Silver,2023-08-23,Warehouse Outlet,1
+M00520,Kevin Stark,Female,39,Tianjin,North China,Gold,2025-06-12,Pop-up Clearance Warehouse,1
+M00521,Shannon Yu,Male,18,Hangzhou,East China,Silver,2023-11-04,Warehouse Outlet,1
+M00522,Jennifer Garcia,Female,30,Xi'an,West China,Silver,2023-07-22,Pop-up Clearance Warehouse,1
+M00523,Christopher Fry,Female,23,Xi'an,West China,Silver,2025-07-07,Community Warehouse,1
+M00524,Marie Thompson,Female,33,Suzhou,East China,Gold,2026-03-23,Community Warehouse,1
+M00525,Tanya Buchanan,Male,37,Guangzhou,South China,Platinum,2023-03-30,Warehouse Outlet,0
+M00526,Casey Parker,Female,34,Xi'an,West China,Silver,2025-02-06,Community Warehouse,1
+M00527,Nicholas Rush,Female,18,Qingdao,North China,Platinum,2026-02-22,Warehouse Outlet,1
+M00528,Zachary Sanford,Female,36,Beijing,North China,Gold,2022-06-24,Warehouse Outlet,1
+M00529,Tammy Ponce,Female,27,Wuhan,Central China,Gold,2023-03-26,Community Warehouse,1
+M00530,Taylor Taylor,Female,38,Beijing,North China,Silver,2025-04-30,Community Warehouse,1
+M00531,William Jackson,Male,38,Wuhan,Central China,Gold,2025-11-21,Warehouse Outlet,1
+M00532,Michael Fowler,Female,31,Shenzhen,South China,Silver,2025-11-23,Warehouse Outlet,0
+M00533,Derek Wright,Female,18,Qingdao,North China,Silver,2022-08-15,Warehouse Outlet,1
+M00534,Brian Smith,Female,30,Beijing,North China,Silver,2023-11-22,Mall Warehouse,1
+M00535,Tracy Wilkerson,Male,46,Shenzhen,South China,Silver,2024-04-27,Shopping Center Warehouse,1
+M00536,Joshua Garcia,Female,19,Chongqing,West China,Gold,2024-04-07,Warehouse Outlet,1
+M00537,Marilyn Mcdaniel,Unknown,33,Xi'an,West China,Silver,2022-12-31,Warehouse Outlet,1
+M00538,Ryan Phillips,Male,29,Shanghai,East China,Platinum,2023-08-16,Shopping Center Warehouse,1
+M00539,Angela Jackson,Female,18,Shenzhen,South China,Platinum,2023-11-07,Mall Warehouse,1
+M00540,Kimberly Villanueva,Male,33,Chengdu,West China,Silver,2022-09-21,Community Warehouse,1
+M00541,Lisa Webb,Female,47,Wuhan,Central China,Silver,2022-06-22,Shopping Center Warehouse,0
+M00542,Carmen Preston,Female,44,Shanghai,East China,Silver,2022-12-23,Community Warehouse,1
+M00543,Daniel Lee,Female,35,Changsha,Central China,Silver,2025-02-19,Warehouse Outlet,1
+M00544,Monica Baker,Female,41,Qingdao,North China,Silver,2023-06-23,Warehouse Outlet,1
+M00545,Anthony Armstrong,Male,39,Guangzhou,South China,Gold,2025-09-16,Warehouse Outlet,1
+M00546,Isaac Patterson,Male,25,Xi'an,West China,Silver,2023-07-12,Mall Warehouse,1
+M00547,Lindsay Gonzalez,Male,29,Hangzhou,East China,Silver,2022-06-14,Shopping Center Warehouse,1
+M00548,Edgar Miller,Female,22,Shenzhen,South China,Platinum,2025-09-21,Shopping Center Warehouse,1
+M00549,James Burns,Female,47,Changsha,Central China,Gold,2024-12-28,Warehouse Outlet,1
+M00550,Joshua Lopez,Male,53,Guangzhou,South China,Gold,2025-11-21,Warehouse Outlet,0
+M00551,Jeremy Baker,Female,44,Tianjin,North China,Platinum,2024-03-17,Mall Warehouse,1
+M00552,Derrick Brown,Male,35,Nanjing,East China,Gold,2025-05-11,Shopping Center Warehouse,1
+M00553,Angelica Cooper,Male,22,Suzhou,East China,Gold,2024-07-07,Community Warehouse,1
+M00554,Leah Spencer,Female,36,Chongqing,West China,Platinum,2025-09-17,Warehouse Outlet,1
+M00555,Jennifer Nichols,Female,32,Guangzhou,South China,Silver,2025-10-25,Mall Warehouse,1
+M00556,Stephen Alvarez,Male,18,Guangzhou,South China,Silver,2022-08-31,Mall Warehouse,1
+M00557,Michelle Shaw,Unknown,38,Beijing,North China,Gold,2025-12-13,Warehouse Outlet,1
+M00558,Megan Oliver,Female,32,Beijing,North China,Gold,2022-10-30,Mall Warehouse,1
+M00559,Carrie Joyce,Female,32,Beijing,North China,Silver,2026-03-28,Community Warehouse,1
+M00560,Beth Henderson,Female,29,Hangzhou,East China,Gold,2026-04-20,Mall Warehouse,1
+M00561,Zachary Burton,Female,38,Tianjin,North China,Gold,2025-09-07,Mall Warehouse,1
+M00562,Thomas Sloan,Male,45,Qingdao,North China,Silver,2022-08-13,Community Warehouse,1
+M00563,James Nguyen,Female,18,Guangzhou,South China,Silver,2023-06-15,Mall Warehouse,1
+M00564,Shane Buchanan,Unknown,33,Shenzhen,South China,Silver,2024-11-03,Warehouse Outlet,1
+M00565,Jennifer Perry,Male,58,Tianjin,North China,Gold,2022-12-10,Warehouse Outlet,0
+M00566,Olivia Ayers,Male,22,Shenzhen,South China,Silver,2026-01-18,Community Warehouse,1
+M00567,Ashlee Mitchell,Female,25,Tianjin,North China,Silver,2024-06-28,Pop-up Clearance Warehouse,1
+M00568,Jason Reyes,Unknown,38,Beijing,North China,Platinum,2024-04-16,Shopping Center Warehouse,1
+M00569,Amanda Hill,Female,51,Chengdu,West China,Silver,2022-12-04,Warehouse Outlet,1
+M00570,Melissa Williams,Female,41,Hangzhou,East China,Silver,2025-11-27,Warehouse Outlet,1
+M00571,David Reese,Female,18,Guangzhou,South China,Silver,2026-01-12,Warehouse Outlet,1
+M00572,Alicia Roth,Unknown,35,Chongqing,West China,Silver,2023-07-24,Warehouse Outlet,1
+M00573,John Horton,Female,31,Shanghai,East China,Platinum,2022-09-28,Warehouse Outlet,1
+M00574,Brandy Mccann,Female,35,Shanghai,East China,Gold,2024-02-14,Warehouse Outlet,1
+M00575,Debra Butler,Female,39,Shanghai,East China,Silver,2024-12-06,Shopping Center Warehouse,1
+M00576,Daniel Holloway,Male,33,Changsha,Central China,Gold,2025-04-24,Community Warehouse,1
+M00577,Sharon Nicholson,Unknown,36,Xi'an,West China,Platinum,2024-05-29,Community Warehouse,1
+M00578,Eric Hunter,Female,41,Changsha,Central China,Silver,2022-11-22,Community Warehouse,1
+M00579,Sherry Johnson,Male,19,Chongqing,West China,Silver,2023-02-13,Pop-up Clearance Warehouse,1
+M00580,Sara Wright,Female,32,Nanjing,East China,Gold,2024-03-04,Mall Warehouse,1
+M00581,Michele Hill,Female,25,Xi'an,West China,Gold,2025-08-23,Pop-up Clearance Warehouse,0
+M00582,Madison Martinez,Male,20,Shanghai,East China,Silver,2022-06-21,Mall Warehouse,0
+M00583,Kirk Thompson,Female,31,Hangzhou,East China,Silver,2025-10-30,Mall Warehouse,0
+M00584,Hannah Martin,Male,38,Changsha,Central China,Silver,2025-12-04,Community Warehouse,1
+M00585,Melissa Mitchell,Male,26,Shanghai,East China,Gold,2023-11-23,Warehouse Outlet,1
+M00586,Kenneth Hanna,Male,36,Chongqing,West China,Platinum,2025-10-11,Community Warehouse,1
+M00587,Megan Adams,Male,29,Shenzhen,South China,Silver,2023-12-27,Warehouse Outlet,1
+M00588,Richard Saunders,Male,18,Nanjing,East China,Silver,2022-05-20,Pop-up Clearance Warehouse,1
+M00589,Maria Burke,Male,18,Wuhan,Central China,Platinum,2022-05-20,Shopping Center Warehouse,1
+M00590,Robert Torres,Female,39,Changsha,Central China,Platinum,2026-03-20,Shopping Center Warehouse,1
+M00591,Jessica Bennett,Female,18,Wuhan,Central China,Platinum,2023-09-29,Warehouse Outlet,1
+M00592,John Byrd,Male,31,Hangzhou,East China,Silver,2025-08-24,Warehouse Outlet,1
+M00593,Brian Hunt,Female,23,Hangzhou,East China,Silver,2024-12-30,Warehouse Outlet,1
+M00594,Jacqueline Holland,Female,38,Beijing,North China,Silver,2024-10-13,Shopping Center Warehouse,1
+M00595,Brian Brown,Male,28,Xi'an,West China,Silver,2026-04-20,Community Warehouse,1
+M00596,Shannon Green,Female,57,Qingdao,North China,Silver,2025-03-11,Shopping Center Warehouse,1
+M00597,Elizabeth Hernandez,Male,30,Chongqing,West China,Silver,2025-05-30,Warehouse Outlet,1
+M00598,Renee Lang,Female,24,Nanjing,East China,Platinum,2024-09-30,Warehouse Outlet,1
+M00599,Melanie Griffith,Male,49,Beijing,North China,Gold,2024-12-20,Warehouse Outlet,1
+M00600,Deanna Barnes MD,Male,29,Chengdu,West China,Silver,2022-06-28,Mall Warehouse,1
+M00601,Laura Lee,Male,38,Qingdao,North China,Platinum,2025-04-03,Warehouse Outlet,1
+M00602,Joseph Glover,Male,40,Xiamen,South China,Silver,2025-12-22,Warehouse Outlet,1
+M00603,Katie Bruce,Female,21,Nanjing,East China,Gold,2025-09-17,Shopping Center Warehouse,1
+M00604,Catherine Davis,Female,43,Chongqing,West China,Silver,2022-11-10,Warehouse Outlet,1
+M00605,Robert Hines,Female,42,Chengdu,West China,Platinum,2023-01-30,Warehouse Outlet,1
+M00606,Gabriela Davis,Female,18,Guangzhou,South China,Platinum,2023-10-09,Warehouse Outlet,1
+M00607,Elizabeth French,Male,32,Shanghai,East China,Gold,2023-09-04,Mall Warehouse,1
+M00608,Edward York,Male,44,Qingdao,North China,Gold,2024-03-25,Warehouse Outlet,1
+M00609,Lauren Blackburn,Female,26,Tianjin,North China,Silver,2022-08-20,Mall Warehouse,1
+M00610,Kathryn Dillon,Male,44,Shanghai,East China,Silver,2023-11-16,Warehouse Outlet,1
+M00611,Anthony Dickerson,Male,40,Guangzhou,South China,Gold,2022-11-24,Community Warehouse,1
+M00612,Jason Hudson,Female,28,Chongqing,West China,Silver,2025-12-22,Warehouse Outlet,1
+M00613,Eugene Baldwin,Female,33,Wuhan,Central China,Gold,2025-06-19,Warehouse Outlet,1
+M00614,Mr. Christopher Walters,Female,41,Chengdu,West China,Silver,2022-05-14,Warehouse Outlet,1
+M00615,Philip Jackson,Female,46,Tianjin,North China,Gold,2025-05-28,Warehouse Outlet,1
+M00616,Phillip Miller DDS,Unknown,36,Chengdu,West China,Gold,2024-11-18,Pop-up Clearance Warehouse,0
+M00617,Vincent Reyes,Female,41,Wuhan,Central China,Platinum,2022-07-02,Mall Warehouse,1
+M00618,Jake Smith,Male,28,Chongqing,West China,Diamond,2023-08-21,Warehouse Outlet,1
+M00619,Cheryl Rhodes,Female,26,Tianjin,North China,Silver,2024-11-08,Shopping Center Warehouse,1
+M00620,Michael Cooper,Male,26,Wuhan,Central China,Gold,2022-11-12,Warehouse Outlet,1
+M00621,Kevin Jackson,Female,33,Shenzhen,South China,Silver,2025-08-23,Pop-up Clearance Warehouse,1
+M00622,Earl Luna,Female,18,Tianjin,North China,Diamond,2024-09-25,Warehouse Outlet,1
+M00623,Stephen Cowan,Male,32,Shenzhen,South China,Silver,2023-09-20,Warehouse Outlet,1
+M00624,Heather Lopez,Female,25,Xiamen,South China,Silver,2026-02-21,Community Warehouse,1
+M00625,Jennifer Perez,Unknown,37,Hangzhou,East China,Silver,2025-04-04,Mall Warehouse,1
+M00626,Nicholas Lawrence,Male,39,Suzhou,East China,Gold,2023-01-09,Mall Warehouse,1
+M00627,Matthew Johnson,Female,39,Shenzhen,South China,Silver,2025-11-08,Mall Warehouse,0
+M00628,Joseph Williams,Male,48,Beijing,North China,Silver,2026-04-30,Mall Warehouse,0
+M00629,Martha Smith,Male,31,Xiamen,South China,Silver,2025-02-08,Mall Warehouse,1
+M00630,James Kelley,Female,32,Qingdao,North China,Silver,2024-03-31,Warehouse Outlet,0
+M00631,Michael Mccoy,Male,34,Shanghai,East China,Silver,2023-07-21,Warehouse Outlet,0
+M00632,Mary Nelson,Male,60,Qingdao,North China,Silver,2024-10-08,Community Warehouse,1
+M00633,Ronald Garcia,Unknown,18,Tianjin,North China,Silver,2025-03-23,Shopping Center Warehouse,1
+M00634,Brian Rodriguez,Female,38,Shanghai,East China,Platinum,2023-02-22,Warehouse Outlet,1
+M00635,Dennis Mills,Female,25,Qingdao,North China,Gold,2023-02-26,Mall Warehouse,1
+M00636,Elizabeth Williams,Male,23,Tianjin,North China,Platinum,2024-05-02,Mall Warehouse,1
+M00637,Timothy Rivera,Female,40,Nanjing,East China,Gold,2022-05-12,Mall Warehouse,1
+M00638,Susan Conley,Female,45,Beijing,North China,Silver,2025-01-09,Warehouse Outlet,1
+M00639,Brandon Hunt,Male,18,Xiamen,South China,Silver,2025-03-30,Mall Warehouse,1
+M00640,David Hall,Male,41,Tianjin,North China,Silver,2026-04-21,Shopping Center Warehouse,1
+M00641,John Garcia,Male,27,Beijing,North China,Silver,2023-01-18,Warehouse Outlet,1
+M00642,Dylan Solis,Male,42,Xi'an,West China,Gold,2023-08-07,Community Warehouse,1
+M00643,Anna Chang,Male,44,Wuhan,Central China,Platinum,2022-07-14,Shopping Center Warehouse,1
+M00644,Mary Jackson,Male,32,Chengdu,West China,Silver,2023-10-12,Warehouse Outlet,1
+M00645,Marco Johns,Female,24,Changsha,Central China,Gold,2022-09-20,Warehouse Outlet,1
+M00646,Catherine Morales,Female,32,Xi'an,West China,Diamond,2026-03-13,Mall Warehouse,1
+M00647,James Jefferson,Female,31,Chengdu,West China,Silver,2025-07-19,Mall Warehouse,1
+M00648,Rebecca Wilson,Male,42,Chongqing,West China,Silver,2025-02-18,Shopping Center Warehouse,1
+M00649,Tommy Moore,Male,22,Hangzhou,East China,Silver,2024-01-05,Mall Warehouse,1
+M00650,Rebekah Gregory,Male,37,Shanghai,East China,Platinum,2023-01-27,Mall Warehouse,1
+M00651,Ian Johnson,Male,32,Shanghai,East China,Gold,2025-02-01,Warehouse Outlet,1
+M00652,Valerie Anderson,Female,48,Changsha,Central China,Silver,2026-01-11,Mall Warehouse,0
+M00653,Jason Williams,Female,31,Hangzhou,East China,Gold,2023-05-25,Mall Warehouse,1
+M00654,Michael Gregory,Male,28,Shenzhen,South China,Diamond,2025-06-02,Community Warehouse,1
+M00655,Krystal Levine,Male,50,Tianjin,North China,Silver,2025-01-10,Warehouse Outlet,1
+M00656,Joseph Haynes,Female,33,Guangzhou,South China,Gold,2022-09-24,Community Warehouse,1
+M00657,Danielle Reed,Male,33,Xiamen,South China,Silver,2025-01-20,Warehouse Outlet,0
+M00658,Ryan Grant,Female,43,Beijing,North China,Gold,2026-04-20,Community Warehouse,1
+M00659,Mason Moore,Female,31,Shenzhen,South China,Diamond,2025-09-29,Community Warehouse,1
+M00660,Sheila Jones,Unknown,20,Beijing,North China,Silver,2024-04-25,Shopping Center Warehouse,1
+M00661,Wayne Williams,Male,42,Guangzhou,South China,Gold,2023-03-29,Warehouse Outlet,1
+M00662,Jennifer Young,Male,26,Chongqing,West China,Gold,2024-03-08,Community Warehouse,1
+M00663,Joan Gates,Male,36,Chengdu,West China,Gold,2024-02-20,Shopping Center Warehouse,1
+M00664,Jonathan Valdez,Male,28,Shanghai,East China,Silver,2022-10-04,Warehouse Outlet,1
+M00665,Justin Smith,Male,45,Wuhan,Central China,Gold,2022-09-17,Warehouse Outlet,1
+M00666,Lisa Torres,Female,29,Changsha,Central China,Diamond,2024-05-19,Community Warehouse,1
+M00667,Michael Clements,Female,34,Beijing,North China,Silver,2023-10-20,Community Warehouse,1
+M00668,Daniel Gibson,Male,40,Chongqing,West China,Gold,2024-08-03,Mall Warehouse,0
+M00669,Kara Sandoval,Female,29,Guangzhou,South China,Gold,2025-03-18,Warehouse Outlet,1
+M00670,Peter Walker,Female,20,Nanjing,East China,Gold,2023-09-18,Mall Warehouse,0
+M00671,Tracey Carter,Female,29,Guangzhou,South China,Gold,2024-06-08,Shopping Center Warehouse,1
+M00672,Amber Martin,Male,43,Xiamen,South China,Platinum,2022-11-29,Warehouse Outlet,1
+M00673,Mikayla Rodriguez,Male,39,Chongqing,West China,Silver,2024-10-16,Warehouse Outlet,1
+M00674,Timothy Long,Unknown,42,Shenzhen,South China,Gold,2024-03-05,Mall Warehouse,1
+M00675,Michelle Rodriguez,Male,31,Xi'an,West China,Gold,2024-01-03,Mall Warehouse,1
+M00676,Sara Chapman,Male,27,Qingdao,North China,Silver,2025-06-09,Mall Warehouse,1
+M00677,Matthew Blanchard,Male,40,Guangzhou,South China,Diamond,2022-11-20,Warehouse Outlet,1
+M00678,Mr. Anthony Mcconnell PhD,Male,24,Chongqing,West China,Gold,2024-04-12,Mall Warehouse,1
+M00679,Tammy Thompson,Female,18,Qingdao,North China,Silver,2024-08-30,Shopping Center Warehouse,1
+M00680,Betty Hughes,Male,32,Guangzhou,South China,Gold,2024-10-01,Mall Warehouse,1
+M00681,Kathy Cruz,Unknown,18,Changsha,Central China,Gold,2026-04-08,Warehouse Outlet,1
+M00682,Pamela Hill,Female,33,Changsha,Central China,Gold,2026-03-15,Warehouse Outlet,1
+M00683,Jodi Anderson,Male,26,Nanjing,East China,Silver,2024-01-01,Mall Warehouse,0
+M00684,Nicole Evans,Male,24,Changsha,Central China,Gold,2025-02-25,Warehouse Outlet,1
+M00685,Michelle Walls,Female,50,Xi'an,West China,Silver,2024-11-17,Pop-up Clearance Warehouse,1
+M00686,Marcus Roberts,Female,34,Xi'an,West China,Diamond,2023-09-24,Shopping Center Warehouse,1
+M00687,Vicki Santos,Male,26,Chongqing,West China,Gold,2026-03-08,Pop-up Clearance Warehouse,1
+M00688,Melissa Morris,Male,40,Chongqing,West China,Platinum,2022-10-23,Warehouse Outlet,1
+M00689,John Duncan,Male,29,Hangzhou,East China,Silver,2025-01-06,Warehouse Outlet,1
+M00690,Paul Skinner,Male,28,Wuhan,Central China,Silver,2023-06-29,Mall Warehouse,1
+M00691,Rhonda Mills,Male,18,Suzhou,East China,Silver,2022-06-13,Community Warehouse,1
+M00692,Michael Gonzalez,Female,27,Changsha,Central China,Silver,2025-05-08,Warehouse Outlet,1
+M00693,Dustin King,Unknown,26,Beijing,North China,Gold,2025-09-15,Mall Warehouse,1
+M00694,Elizabeth Molina,Female,42,Tianjin,North China,Silver,2022-06-24,Shopping Center Warehouse,1
+M00695,Ashley Parrish,Male,27,Changsha,Central China,Platinum,2025-04-22,Shopping Center Warehouse,1
+M00696,Natalie Hoffman,Male,21,Chongqing,West China,Gold,2023-04-20,Warehouse Outlet,1
+M00697,Rebecca Roberts,Female,31,Xi'an,West China,Gold,2025-01-02,Shopping Center Warehouse,1
+M00698,Jasmine Frye,Female,35,Beijing,North China,Silver,2026-04-02,Community Warehouse,1
+M00699,Juan Smith,Male,35,Suzhou,East China,Gold,2023-05-10,Community Warehouse,1
+M00700,Priscilla Berg,Male,37,Changsha,Central China,Silver,2025-09-01,Community Warehouse,1
+M00701,Michele Holland,Female,32,Xi'an,West China,Gold,2025-05-15,Warehouse Outlet,1
+M00702,Lindsey Parsons,Female,28,Tianjin,North China,Diamond,2026-03-16,Pop-up Clearance Warehouse,1
+M00703,Christopher Fleming,Male,41,Hangzhou,East China,Gold,2023-02-05,Warehouse Outlet,1
+M00704,Jose Bennett,Female,48,Tianjin,North China,Silver,2024-01-24,Warehouse Outlet,1
+M00705,Beverly Silva,Unknown,36,Xi'an,West China,Gold,2023-05-15,Warehouse Outlet,1
+M00706,Michael Moore,Male,30,Chengdu,West China,Silver,2022-12-18,Shopping Center Warehouse,1
+M00707,Anthony Randolph,Female,30,Shanghai,East China,Gold,2024-10-23,Warehouse Outlet,1
+M00708,Katherine Armstrong,Male,42,Hangzhou,East China,Silver,2023-10-13,Shopping Center Warehouse,0
+M00709,Emily Robinson,Female,37,Changsha,Central China,Platinum,2023-01-31,Community Warehouse,1
+M00710,Jonathan Perry,Female,22,Chongqing,West China,Platinum,2024-06-30,Shopping Center Warehouse,1
+M00711,Daniel Lewis,Male,23,Shenzhen,South China,Silver,2023-09-04,Warehouse Outlet,0
+M00712,Daniel Goodwin,Male,23,Wuhan,Central China,Silver,2024-06-21,Mall Warehouse,1
+M00713,Samantha Zavala MD,Unknown,34,Changsha,Central China,Platinum,2025-01-09,Community Warehouse,1
+M00714,Tanner Austin,Female,29,Guangzhou,South China,Platinum,2024-10-31,Shopping Center Warehouse,1
+M00715,Melanie Flores,Male,37,Shenzhen,South China,Silver,2026-01-05,Warehouse Outlet,0
+M00716,Janice Fernandez,Female,21,Shenzhen,South China,Silver,2023-06-25,Mall Warehouse,1
+M00717,Samantha Brooks,Female,35,Nanjing,East China,Silver,2025-07-23,Warehouse Outlet,0
+M00718,Andrew Villanueva,Male,34,Suzhou,East China,Silver,2023-02-13,Community Warehouse,1
+M00719,Tiffany Jackson,Male,40,Xi'an,West China,Silver,2026-03-05,Warehouse Outlet,0
+M00720,Adrienne Jones,Female,39,Tianjin,North China,Silver,2025-01-11,Warehouse Outlet,1
+M00721,Sharon Coleman,Male,19,Hangzhou,East China,Silver,2022-10-06,Community Warehouse,1
+M00722,Michele Cherry,Male,38,Nanjing,East China,Silver,2025-06-13,Warehouse Outlet,1
+M00723,Teresa Burgess,Male,39,Xiamen,South China,Gold,2022-12-18,Community Warehouse,1
+M00724,Gary Miller,Female,37,Beijing,North China,Platinum,2022-07-26,Community Warehouse,1
+M00725,Kristin Andrews,Female,35,Wuhan,Central China,Silver,2023-04-05,Community Warehouse,1
+M00726,James Mccoy,Female,34,Nanjing,East China,Gold,2024-01-30,Community Warehouse,1
+M00727,Michael Nichols,Male,45,Suzhou,East China,Silver,2024-11-30,Warehouse Outlet,1
+M00728,Nicole Richards,Female,30,Chengdu,West China,Silver,2025-02-24,Community Warehouse,0
+M00729,Timothy Rodriguez,Male,46,Xiamen,South China,Silver,2025-06-30,Pop-up Clearance Warehouse,1
+M00730,Brandon Hubbard,Male,19,Shenzhen,South China,Silver,2024-02-06,Community Warehouse,1
+M00731,Matthew Wells,Female,42,Chengdu,West China,Gold,2024-06-25,Shopping Center Warehouse,1
+M00732,James Salinas,Female,26,Xiamen,South China,Silver,2024-07-13,Shopping Center Warehouse,1
+M00733,Brianna Byrd,Female,35,Tianjin,North China,Gold,2026-01-02,Warehouse Outlet,1
+M00734,Monica Brooks,Female,35,Changsha,Central China,Silver,2026-02-23,Mall Warehouse,1
+M00735,Kristen Martinez,Female,40,Tianjin,North China,Platinum,2022-05-15,Shopping Center Warehouse,1
+M00736,Kimberly Arroyo,Male,50,Chongqing,West China,Gold,2023-07-27,Pop-up Clearance Warehouse,0
+M00737,Stephanie Cooper,Male,41,Xi'an,West China,Silver,2023-12-31,Mall Warehouse,1
+M00738,Kayla Martin,Female,49,Xi'an,West China,Silver,2023-03-26,Warehouse Outlet,1
+M00739,Cheyenne White,Female,39,Hangzhou,East China,Silver,2025-07-19,Shopping Center Warehouse,1
+M00740,Sarah Randolph,Female,32,Xiamen,South China,Silver,2026-04-29,Shopping Center Warehouse,1
+M00741,Joshua Roberts,Male,33,Shenzhen,South China,Platinum,2022-08-14,Mall Warehouse,1
+M00742,Nicholas Freeman,Unknown,22,Xiamen,South China,Diamond,2023-09-03,Shopping Center Warehouse,1
+M00743,Matthew Garcia,Unknown,46,Shanghai,East China,Silver,2024-10-29,Community Warehouse,0
+M00744,Emily Hayes,Unknown,49,Chengdu,West China,Gold,2024-10-24,Mall Warehouse,0
+M00745,Kevin Cunningham,Unknown,43,Changsha,Central China,Gold,2023-10-22,Mall Warehouse,1
+M00746,Jeffrey Smith,Unknown,34,Shenzhen,South China,Gold,2023-05-02,Mall Warehouse,1
+M00747,Patrick Graham,Female,34,Tianjin,North China,Gold,2025-09-16,Warehouse Outlet,1
+M00748,Nicholas Humphrey,Male,43,Xiamen,South China,Gold,2024-03-14,Warehouse Outlet,1
+M00749,Eric Arnold,Male,34,Chongqing,West China,Silver,2023-01-19,Warehouse Outlet,0
+M00750,Sarah Trevino,Male,31,Shenzhen,South China,Gold,2022-11-28,Community Warehouse,1
+M00751,Deborah Mercado,Male,34,Wuhan,Central China,Silver,2022-08-27,Community Warehouse,1
+M00752,Albert Hunter,Male,35,Qingdao,North China,Silver,2022-06-22,Shopping Center Warehouse,0
+M00753,Jennifer Lawrence,Male,20,Chengdu,West China,Gold,2025-12-22,Warehouse Outlet,0
+M00754,Kimberly Lutz,Male,21,Beijing,North China,Gold,2024-03-27,Warehouse Outlet,0
+M00755,Holly Walker,Female,24,Chongqing,West China,Silver,2025-06-09,Community Warehouse,1
+M00756,Donna Marshall,Unknown,37,Nanjing,East China,Gold,2024-05-22,Warehouse Outlet,1
+M00757,Jonathan Bates,Male,36,Changsha,Central China,Platinum,2025-09-27,Warehouse Outlet,1
+M00758,Lisa Martin,Male,41,Qingdao,North China,Platinum,2024-05-28,Shopping Center Warehouse,1
+M00759,Christopher Fry,Male,22,Shenzhen,South China,Diamond,2024-12-26,Warehouse Outlet,1
+M00760,Nancy Webb,Male,29,Suzhou,East China,Platinum,2023-10-14,Shopping Center Warehouse,1
+M00761,John Brown,Female,18,Chongqing,West China,Silver,2023-10-29,Shopping Center Warehouse,1
+M00762,Daniel Velez,Male,24,Guangzhou,South China,Silver,2023-10-17,Warehouse Outlet,0
+M00763,Jesse Williams,Male,28,Shanghai,East China,Silver,2026-04-09,Warehouse Outlet,1
+M00764,Michael Boyd,Male,26,Wuhan,Central China,Silver,2025-09-01,Mall Warehouse,1
+M00765,Deborah Stephens,Male,52,Wuhan,Central China,Silver,2023-01-16,Pop-up Clearance Warehouse,1
+M00766,Holly Valdez,Male,29,Beijing,North China,Silver,2025-09-09,Community Warehouse,1
+M00767,Jamie Solomon,Male,37,Chongqing,West China,Silver,2024-05-31,Pop-up Clearance Warehouse,1
+M00768,Sean Tucker,Male,28,Shenzhen,South China,Gold,2024-04-11,Mall Warehouse,1
+M00769,Kathryn Taylor,Female,30,Changsha,Central China,Platinum,2023-01-04,Warehouse Outlet,1
+M00770,Mason Lewis,Female,28,Chengdu,West China,Platinum,2023-02-05,Warehouse Outlet,1
+M00771,Mitchell Wilson,Female,22,Xiamen,South China,Gold,2023-04-09,Mall Warehouse,1
+M00772,Michelle Olson,Female,54,Xiamen,South China,Gold,2024-04-06,Warehouse Outlet,1
+M00773,Christopher Whitaker,Female,34,Shenzhen,South China,Silver,2022-06-09,Mall Warehouse,1
+M00774,Kenneth Martin,Male,34,Nanjing,East China,Gold,2024-11-12,Warehouse Outlet,0
+M00775,Kenneth Brown,Female,39,Shenzhen,South China,Silver,2023-05-20,Shopping Center Warehouse,1
+M00776,Tyler Greene,Female,31,Chengdu,West China,Diamond,2024-08-08,Shopping Center Warehouse,0
+M00777,Nathan Stanley,Female,47,Nanjing,East China,Silver,2023-06-26,Warehouse Outlet,1
+M00778,Jerry Haney,Female,24,Xiamen,South China,Silver,2025-10-26,Community Warehouse,1
+M00779,Ronald Burke,Male,26,Guangzhou,South China,Silver,2025-07-11,Warehouse Outlet,1
+M00780,Catherine Keller,Female,33,Beijing,North China,Silver,2023-05-29,Shopping Center Warehouse,1
+M00781,Grace Chavez,Female,26,Hangzhou,East China,Gold,2024-09-16,Warehouse Outlet,0
+M00782,James Rodriguez,Male,25,Guangzhou,South China,Silver,2023-02-27,Shopping Center Warehouse,1
+M00783,Kathy Barnes,Male,29,Xi'an,West China,Platinum,2022-12-12,Pop-up Clearance Warehouse,1
+M00784,John Mendez,Female,31,Beijing,North China,Gold,2022-07-04,Shopping Center Warehouse,1
+M00785,Kathy Wilson,Male,35,Qingdao,North China,Platinum,2024-04-11,Warehouse Outlet,1
+M00786,Larry Carey,Male,29,Shanghai,East China,Silver,2025-12-08,Warehouse Outlet,1
+M00787,Marie Boyd,Male,39,Tianjin,North China,Gold,2023-10-31,Community Warehouse,1
+M00788,Joseph Perez,Female,28,Xi'an,West China,Silver,2025-07-23,Community Warehouse,1
+M00789,Jane Chapman,Female,30,Xiamen,South China,Silver,2025-04-25,Mall Warehouse,1
+M00790,Melissa Davis,Female,18,Shenzhen,South China,Gold,2022-11-19,Community Warehouse,1
+M00791,David Trevino,Female,43,Hangzhou,East China,Platinum,2023-06-25,Warehouse Outlet,1
+M00792,Jennifer Lopez,Female,33,Shenzhen,South China,Gold,2025-03-09,Warehouse Outlet,1
+M00793,Laura Wilson,Female,47,Chengdu,West China,Gold,2022-05-18,Community Warehouse,1
+M00794,Melissa Stewart,Unknown,26,Guangzhou,South China,Silver,2023-10-19,Shopping Center Warehouse,1
+M00795,Matthew King,Male,42,Xiamen,South China,Gold,2025-10-08,Warehouse Outlet,1
+M00796,Jacob Hill,Male,31,Wuhan,Central China,Platinum,2025-01-26,Mall Warehouse,1
+M00797,Jennifer Bowers,Male,49,Nanjing,East China,Silver,2024-04-11,Shopping Center Warehouse,1
+M00798,Justin King,Female,19,Guangzhou,South China,Silver,2023-07-30,Warehouse Outlet,1
+M00799,Michael Fitzgerald,Male,51,Shanghai,East China,Platinum,2025-10-08,Mall Warehouse,1
+M00800,Nicole Griffin,Female,39,Hangzhou,East China,Gold,2025-02-22,Community Warehouse,1
+M00801,Daniel Morales,Female,25,Hangzhou,East China,Diamond,2023-09-14,Warehouse Outlet,1
+M00802,Melissa Mann,Female,46,Hangzhou,East China,Silver,2022-12-28,Mall Warehouse,1
+M00803,Abigail Davis,Male,43,Guangzhou,South China,Silver,2022-12-06,Shopping Center Warehouse,1
+M00804,Jessica Brown,Unknown,28,Xi'an,West China,Silver,2023-03-28,Warehouse Outlet,1
+M00805,Andrew Cruz,Male,24,Qingdao,North China,Silver,2026-04-15,Shopping Center Warehouse,1
+M00806,Kelly Dawson,Male,33,Shenzhen,South China,Gold,2024-09-26,Mall Warehouse,0
+M00807,Samantha Bowman,Male,35,Qingdao,North China,Gold,2024-02-08,Warehouse Outlet,1
+M00808,Matthew Lara,Female,34,Qingdao,North China,Silver,2023-06-29,Mall Warehouse,1
+M00809,Kyle Black,Female,34,Xiamen,South China,Silver,2023-04-11,Warehouse Outlet,1
+M00810,Andrew Allen,Female,19,Beijing,North China,Silver,2022-05-08,Mall Warehouse,1
+M00811,Zachary Chan,Male,35,Shenzhen,South China,Silver,2023-10-05,Shopping Center Warehouse,0
+M00812,Kevin Holmes,Unknown,42,Chengdu,West China,Silver,2025-04-18,Mall Warehouse,1
+M00813,Brandon Mitchell,Female,35,Beijing,North China,Gold,2025-09-01,Warehouse Outlet,1
+M00814,Hannah Richmond,Female,37,Guangzhou,South China,Silver,2023-06-15,Community Warehouse,1
+M00815,Cheyenne Spears,Female,45,Shenzhen,South China,Diamond,2024-08-24,Warehouse Outlet,1
+M00816,Jason Rodriguez,Female,29,Shanghai,East China,Silver,2022-08-21,Warehouse Outlet,1
+M00817,Travis Pratt,Female,35,Hangzhou,East China,Platinum,2026-03-05,Mall Warehouse,0
+M00818,Robin Andrews,Male,27,Guangzhou,South China,Platinum,2025-02-15,Warehouse Outlet,1
+M00819,Kristine Carrillo,Female,31,Suzhou,East China,Silver,2025-05-18,Warehouse Outlet,0
+M00820,Judy Murray,Female,25,Qingdao,North China,Platinum,2024-09-11,Warehouse Outlet,1
+M00821,Brian Jones,Female,28,Hangzhou,East China,Silver,2024-11-18,Mall Warehouse,1
+M00822,Megan Hall MD,Female,33,Xi'an,West China,Gold,2026-03-03,Warehouse Outlet,1
+M00823,Alexandra Collier,Male,26,Wuhan,Central China,Silver,2023-05-05,Shopping Center Warehouse,1
+M00824,Michael Nicholson,Male,47,Wuhan,Central China,Silver,2022-08-27,Pop-up Clearance Warehouse,1
+M00825,Karen Gomez,Female,29,Tianjin,North China,Gold,2025-12-04,Mall Warehouse,1
+M00826,Travis Vega,Male,20,Shenzhen,South China,Silver,2025-12-27,Warehouse Outlet,1
+M00827,Mr. Nicolas Salas II,Unknown,42,Shenzhen,South China,Gold,2023-02-28,Community Warehouse,1
+M00828,Luke Moore,Unknown,22,Suzhou,East China,Gold,2022-10-10,Warehouse Outlet,1
+M00829,Megan Alvarado,Male,61,Qingdao,North China,Platinum,2024-10-20,Warehouse Outlet,1
+M00830,Kimberly Williams,Female,35,Beijing,North China,Silver,2024-04-11,Community Warehouse,1
+M00831,Katherine Galloway,Female,35,Chongqing,West China,Silver,2025-12-08,Community Warehouse,1
+M00832,Katherine Joyce,Female,45,Suzhou,East China,Silver,2026-01-05,Warehouse Outlet,1
+M00833,Daniel Ray,Female,30,Wuhan,Central China,Gold,2022-07-26,Mall Warehouse,1
+M00834,Karen Fernandez,Female,36,Tianjin,North China,Silver,2024-05-11,Community Warehouse,1
+M00835,Michael Thompson,Male,43,Suzhou,East China,Silver,2026-04-03,Mall Warehouse,1
+M00836,Julia Norris,Female,33,Shanghai,East China,Platinum,2022-05-25,Community Warehouse,1
+M00837,Kevin Nguyen,Male,23,Shenzhen,South China,Silver,2024-10-19,Warehouse Outlet,1
+M00838,Joshua Young,Female,39,Qingdao,North China,Silver,2024-03-26,Warehouse Outlet,1
+M00839,Holly Jimenez,Male,30,Tianjin,North China,Gold,2023-03-11,Warehouse Outlet,1
+M00840,Jacqueline Dickerson,Male,26,Qingdao,North China,Diamond,2023-06-20,Shopping Center Warehouse,1
+M00841,Carlos Johnston,Female,52,Xiamen,South China,Silver,2023-04-06,Warehouse Outlet,1
+M00842,Devin Young,Female,25,Beijing,North China,Diamond,2024-01-29,Mall Warehouse,1
+M00843,Charles Haley,Female,30,Chongqing,West China,Gold,2022-12-12,Shopping Center Warehouse,1
+M00844,Cassandra Porter,Female,20,Nanjing,East China,Platinum,2026-05-01,Warehouse Outlet,1
+M00845,Kelly Le,Female,18,Xiamen,South China,Silver,2025-06-28,Warehouse Outlet,0
+M00846,Justin Bradley,Female,43,Suzhou,East China,Gold,2023-12-11,Mall Warehouse,1
+M00847,Amy Cervantes,Male,18,Xi'an,West China,Gold,2024-04-03,Warehouse Outlet,1
+M00848,Joanna Cook,Male,35,Shanghai,East China,Gold,2023-10-17,Warehouse Outlet,1
+M00849,Tara Scott,Female,18,Shanghai,East China,Silver,2022-06-05,Warehouse Outlet,1
+M00850,Sean Mccarty,Male,41,Beijing,North China,Silver,2023-02-22,Mall Warehouse,1
+M00851,Mariah Thompson,Male,48,Tianjin,North China,Silver,2025-06-21,Warehouse Outlet,1
+M00852,Michael Freeman,Male,31,Chongqing,West China,Gold,2025-04-18,Warehouse Outlet,1
+M00853,Jane Mitchell,Unknown,37,Chongqing,West China,Gold,2024-11-15,Mall Warehouse,1
+M00854,Christopher Morton,Female,27,Guangzhou,South China,Silver,2023-09-12,Warehouse Outlet,1
+M00855,Laura Sweeney,Female,20,Chongqing,West China,Gold,2022-08-20,Shopping Center Warehouse,0
+M00856,Darren Stewart,Male,21,Chongqing,West China,Platinum,2023-07-07,Warehouse Outlet,1
+M00857,Matthew Nelson,Male,41,Shanghai,East China,Silver,2024-02-16,Community Warehouse,1
+M00858,Heidi Matthews,Male,31,Xi'an,West China,Diamond,2026-03-18,Community Warehouse,1
+M00859,Clinton Johnson,Female,18,Qingdao,North China,Silver,2025-04-05,Shopping Center Warehouse,1
+M00860,Teresa Haynes,Female,29,Guangzhou,South China,Silver,2022-09-01,Mall Warehouse,1
+M00861,Brian Brown,Female,18,Shenzhen,South China,Silver,2025-11-11,Pop-up Clearance Warehouse,1
+M00862,Allison Sanders,Male,43,Qingdao,North China,Silver,2025-05-29,Warehouse Outlet,1
+M00863,Dennis Moore,Female,20,Hangzhou,East China,Gold,2024-12-19,Shopping Center Warehouse,1
+M00864,Ellen Wright,Female,37,Nanjing,East China,Silver,2023-06-27,Warehouse Outlet,1
+M00865,Bonnie Roberson,Male,42,Xi'an,West China,Platinum,2022-06-18,Warehouse Outlet,1
+M00866,Shannon Nguyen,Female,18,Nanjing,East China,Gold,2024-04-02,Community Warehouse,1
+M00867,Kimberly Nelson,Male,19,Tianjin,North China,Gold,2024-02-16,Community Warehouse,1
+M00868,Melissa Thompson,Unknown,27,Shenzhen,South China,Gold,2024-09-27,Warehouse Outlet,1
+M00869,Madison Elliott,Female,18,Shenzhen,South China,Gold,2024-06-10,Warehouse Outlet,1
+M00870,Emily Reed,Female,37,Suzhou,East China,Gold,2024-07-04,Mall Warehouse,1
+M00871,Jessica Diaz,Female,43,Guangzhou,South China,Gold,2023-05-22,Warehouse Outlet,0
+M00872,Aaron Ochoa,Female,27,Suzhou,East China,Silver,2025-09-27,Mall Warehouse,1
+M00873,John Smith,Male,28,Qingdao,North China,Silver,2026-01-14,Community Warehouse,1
+M00874,Karen Smith,Female,34,Chongqing,West China,Gold,2024-01-26,Warehouse Outlet,1
+M00875,David Smith,Male,23,Shenzhen,South China,Silver,2023-11-04,Mall Warehouse,1
+M00876,Justin Foster,Unknown,25,Changsha,Central China,Platinum,2023-01-01,Shopping Center Warehouse,1
+M00877,Jean Gray,Male,34,Hangzhou,East China,Silver,2023-05-27,Community Warehouse,1
+M00878,David Duran,Female,35,Suzhou,East China,Platinum,2025-12-27,Community Warehouse,1
+M00879,Melinda Mitchell,Female,39,Hangzhou,East China,Gold,2025-04-27,Warehouse Outlet,1
+M00880,Jennifer Castaneda,Female,44,Qingdao,North China,Gold,2023-01-29,Warehouse Outlet,1
+M00881,Mark Williamson,Female,37,Beijing,North China,Silver,2023-06-09,Warehouse Outlet,1
+M00882,Chelsea Smith,Female,39,Xi'an,West China,Gold,2022-07-19,Mall Warehouse,0
+M00883,Charlene Garcia,Male,25,Shanghai,East China,Silver,2023-06-05,Warehouse Outlet,1
+M00884,Monica Hall,Male,45,Suzhou,East China,Gold,2022-12-14,Warehouse Outlet,1
+M00885,Glenn Collins DDS,Female,33,Hangzhou,East China,Platinum,2026-05-05,Shopping Center Warehouse,1
+M00886,Rick Rivera,Female,21,Changsha,Central China,Gold,2025-09-21,Mall Warehouse,1
+M00887,Amy Rowe,Female,48,Wuhan,Central China,Platinum,2022-08-20,Warehouse Outlet,1
+M00888,Corey Skinner,Male,35,Hangzhou,East China,Platinum,2025-08-14,Warehouse Outlet,1
+M00889,Barbara Tate,Male,36,Wuhan,Central China,Diamond,2023-05-06,Warehouse Outlet,1
+M00890,Jessica Rojas,Female,41,Chongqing,West China,Silver,2022-06-25,Warehouse Outlet,1
+M00891,Ray Boyd,Male,28,Nanjing,East China,Gold,2026-04-11,Warehouse Outlet,1
+M00892,Michael Collins,Male,32,Beijing,North China,Silver,2023-08-22,Community Warehouse,1
+M00893,Amanda Pineda,Female,36,Xiamen,South China,Silver,2024-06-07,Pop-up Clearance Warehouse,1
+M00894,Mark Gonzalez,Male,35,Shanghai,East China,Gold,2025-11-24,Community Warehouse,1
+M00895,Claudia Rodriguez,Male,33,Xi'an,West China,Silver,2024-11-17,Community Warehouse,1
+M00896,Christopher Hill,Female,29,Hangzhou,East China,Gold,2022-10-29,Community Warehouse,1
+M00897,Alexa Williams,Female,44,Chongqing,West China,Gold,2025-06-25,Mall Warehouse,1
+M00898,Kyle Watson,Male,44,Shenzhen,South China,Gold,2022-09-15,Community Warehouse,1
+M00899,Brandon Montgomery,Unknown,23,Tianjin,North China,Silver,2026-01-26,Pop-up Clearance Warehouse,0
+M00900,Lori Brown DDS,Male,43,Qingdao,North China,Gold,2025-02-25,Warehouse Outlet,1
+M00901,Beth Hall,Female,26,Shanghai,East China,Gold,2026-04-11,Community Warehouse,1
+M00902,Nicole Trujillo,Female,27,Tianjin,North China,Silver,2024-02-07,Warehouse Outlet,1
+M00903,Michael Howard,Male,33,Changsha,Central China,Silver,2022-11-20,Warehouse Outlet,1
+M00904,Karina Kim,Male,29,Guangzhou,South China,Gold,2023-07-12,Warehouse Outlet,0
+M00905,Cheryl Lopez,Male,39,Changsha,Central China,Silver,2023-09-27,Mall Warehouse,1
+M00906,Denise Guerra,Female,34,Xi'an,West China,Silver,2026-01-03,Warehouse Outlet,1
+M00907,Andrea Moore,Female,24,Chongqing,West China,Silver,2023-07-13,Warehouse Outlet,1
+M00908,Jacob Smith,Male,18,Xiamen,South China,Diamond,2024-11-25,Pop-up Clearance Warehouse,1
+M00909,Cody Smith,Male,42,Tianjin,North China,Silver,2025-10-10,Shopping Center Warehouse,1
+M00910,Cynthia Le,Female,23,Chengdu,West China,Gold,2024-12-24,Community Warehouse,1
+M00911,Jasmine Warren,Male,33,Nanjing,East China,Silver,2024-05-03,Warehouse Outlet,1
+M00912,Lisa Morris,Male,28,Chengdu,West China,Gold,2024-11-29,Pop-up Clearance Warehouse,1
+M00913,Joseph Jones,Female,30,Tianjin,North China,Gold,2025-09-09,Warehouse Outlet,1
+M00914,Shane Harris,Male,35,Changsha,Central China,Gold,2024-04-16,Warehouse Outlet,1
+M00915,Kenneth Huff,Female,18,Chongqing,West China,Diamond,2024-12-24,Warehouse Outlet,1
+M00916,Meredith Scott,Female,23,Guangzhou,South China,Silver,2023-10-25,Community Warehouse,1
+M00917,Andrea Conrad,Male,26,Shanghai,East China,Platinum,2023-03-08,Shopping Center Warehouse,0
+M00918,Steve Miller PhD,Unknown,31,Wuhan,Central China,Platinum,2022-08-04,Shopping Center Warehouse,1
+M00919,Teresa Perry,Male,50,Suzhou,East China,Gold,2023-10-29,Community Warehouse,1
+M00920,Samantha Baker,Female,22,Wuhan,Central China,Silver,2022-07-06,Community Warehouse,1
+M00921,Eric Blackburn,Male,29,Wuhan,Central China,Silver,2026-03-11,Community Warehouse,0
+M00922,Neil Schmidt,Male,34,Tianjin,North China,Diamond,2023-02-08,Warehouse Outlet,1
+M00923,Danielle Garrett,Female,26,Xi'an,West China,Silver,2023-01-24,Warehouse Outlet,1
+M00924,Jennifer Garcia,Female,30,Wuhan,Central China,Gold,2024-11-26,Mall Warehouse,1
+M00925,Jimmy Ortega,Unknown,49,Chengdu,West China,Platinum,2025-11-17,Community Warehouse,1
+M00926,Christopher Morales,Male,33,Beijing,North China,Silver,2023-09-13,Mall Warehouse,1
+M00927,Zachary Ramos,Female,32,Tianjin,North China,Silver,2023-10-04,Community Warehouse,1
+M00928,William Nguyen,Female,35,Guangzhou,South China,Gold,2023-11-02,Warehouse Outlet,0
+M00929,Jessica Swanson,Female,43,Beijing,North China,Silver,2024-10-12,Mall Warehouse,1
+M00930,Cindy Cannon,Male,34,Beijing,North China,Silver,2026-01-20,Mall Warehouse,1
+M00931,Tyrone West,Female,39,Suzhou,East China,Silver,2023-12-09,Pop-up Clearance Warehouse,1
+M00932,Victoria Larson,Female,29,Hangzhou,East China,Platinum,2024-06-02,Warehouse Outlet,1
+M00933,Elizabeth Evans MD,Female,37,Suzhou,East China,Platinum,2025-10-09,Community Warehouse,1
+M00934,Rodney Norris,Female,22,Shanghai,East China,Diamond,2023-06-15,Warehouse Outlet,1
+M00935,Kristie Howe,Male,18,Chengdu,West China,Silver,2022-12-20,Pop-up Clearance Warehouse,1
+M00936,Henry Taylor,Female,30,Xiamen,South China,Silver,2023-10-26,Warehouse Outlet,0
+M00937,Crystal Shepherd,Female,39,Nanjing,East China,Silver,2022-09-19,Mall Warehouse,1
+M00938,Thomas Navarro,Male,34,Suzhou,East China,Gold,2025-03-30,Shopping Center Warehouse,1
+M00939,Carrie Petersen,Female,18,Changsha,Central China,Gold,2025-02-08,Community Warehouse,1
+M00940,Susan Larson,Male,24,Nanjing,East China,Gold,2023-07-20,Mall Warehouse,1
+M00941,Laura Miller,Male,31,Chengdu,West China,Platinum,2022-07-28,Warehouse Outlet,1
+M00942,Hannah Montoya,Male,27,Beijing,North China,Silver,2024-01-06,Mall Warehouse,1
+M00943,Sheila Perez,Female,32,Suzhou,East China,Silver,2024-12-16,Shopping Center Warehouse,1
+M00944,Alexandra Waters,Male,22,Shenzhen,South China,Silver,2023-11-17,Mall Warehouse,1
+M00945,Andrew Fernandez,Male,44,Guangzhou,South China,Silver,2022-12-12,Mall Warehouse,1
+M00946,Connie Williams,Female,18,Chongqing,West China,Gold,2025-04-10,Community Warehouse,1
+M00947,Jeremy Larson,Male,18,Qingdao,North China,Diamond,2024-05-14,Mall Warehouse,0
+M00948,Dylan Foster,Female,32,Shanghai,East China,Platinum,2022-11-17,Shopping Center Warehouse,1
+M00949,Kenneth Williams,Male,27,Qingdao,North China,Gold,2023-12-12,Warehouse Outlet,1
+M00950,Jonathan Ayala,Male,38,Xiamen,South China,Silver,2022-11-14,Warehouse Outlet,1
+M00951,Justin Freeman,Female,58,Guangzhou,South China,Silver,2024-12-15,Shopping Center Warehouse,1
+M00952,Luis Fitzgerald,Female,36,Chengdu,West China,Silver,2023-05-02,Community Warehouse,1
+M00953,Ricardo Morris,Female,30,Beijing,North China,Silver,2026-01-17,Warehouse Outlet,1
+M00954,Michael Henderson,Male,37,Chongqing,West China,Silver,2023-09-28,Community Warehouse,1
+M00955,Kirk Johnson,Female,32,Hangzhou,East China,Silver,2023-07-27,Mall Warehouse,1
+M00956,Lisa Branch MD,Unknown,40,Chongqing,West China,Diamond,2022-12-07,Shopping Center Warehouse,1
+M00957,Robert Gonzalez,Male,29,Xiamen,South China,Gold,2023-11-05,Warehouse Outlet,1
+M00958,Sarah Rodriguez,Male,26,Beijing,North China,Gold,2022-07-26,Mall Warehouse,1
+M00959,Tammy Melton,Female,41,Chongqing,West China,Gold,2025-08-18,Shopping Center Warehouse,1
+M00960,Michael Rodriguez,Female,34,Tianjin,North China,Silver,2024-02-24,Community Warehouse,1
+M00961,Daniel Medina,Male,30,Suzhou,East China,Platinum,2023-03-01,Mall Warehouse,1
+M00962,Deanna Webb,Male,51,Shanghai,East China,Gold,2025-04-08,Warehouse Outlet,0
+M00963,Michael Smith,Female,30,Shanghai,East China,Gold,2024-09-05,Warehouse Outlet,1
+M00964,Amanda Jackson,Unknown,44,Xi'an,West China,Silver,2023-06-26,Community Warehouse,1
+M00965,Lisa Brown,Male,51,Shanghai,East China,Diamond,2024-12-19,Warehouse Outlet,1
+M00966,James Nelson,Female,30,Hangzhou,East China,Silver,2025-10-03,Warehouse Outlet,1
+M00967,Sharon Smith,Male,42,Shanghai,East China,Silver,2025-10-26,Warehouse Outlet,1
+M00968,Crystal James,Female,29,Xi'an,West China,Gold,2026-04-03,Warehouse Outlet,1
+M00969,Ethan Delacruz,Female,32,Wuhan,Central China,Silver,2024-06-22,Warehouse Outlet,1
+M00970,Jonathan Ellis,Male,32,Guangzhou,South China,Gold,2026-01-20,Community Warehouse,0
+M00971,David Moreno,Female,35,Shenzhen,South China,Silver,2023-09-07,Warehouse Outlet,1
+M00972,Christopher Reed,Female,30,Xi'an,West China,Gold,2023-10-04,Shopping Center Warehouse,1
+M00973,Cynthia Good,Female,27,Tianjin,North China,Diamond,2024-05-09,Community Warehouse,1
+M00974,Lori Johns,Male,34,Wuhan,Central China,Gold,2025-11-28,Warehouse Outlet,1
+M00975,Alyssa Peters,Male,32,Chongqing,West China,Gold,2023-06-21,Mall Warehouse,0
+M00976,Steven Sandoval,Female,38,Nanjing,East China,Platinum,2022-09-13,Shopping Center Warehouse,1
+M00977,Tyler Salazar,Male,38,Changsha,Central China,Gold,2024-11-06,Warehouse Outlet,1
+M00978,David Hernandez,Male,27,Changsha,Central China,Gold,2026-03-25,Mall Warehouse,1
+M00979,Erin Daniels,Female,36,Xi'an,West China,Silver,2023-03-06,Community Warehouse,1
+M00980,Joshua Mcbride,Male,36,Wuhan,Central China,Gold,2025-10-19,Warehouse Outlet,1
+M00981,Michael Mills,Female,31,Chongqing,West China,Silver,2022-11-21,Warehouse Outlet,1
+M00982,Vanessa Thomas DVM,Male,21,Wuhan,Central China,Silver,2026-01-06,Warehouse Outlet,1
+M00983,Justin Fry,Female,21,Nanjing,East China,Silver,2022-10-27,Community Warehouse,1
+M00984,Shawn Acosta,Male,29,Shenzhen,South China,Gold,2025-05-30,Community Warehouse,1
+M00985,Jennifer Jenkins,Female,24,Chongqing,West China,Gold,2024-02-14,Warehouse Outlet,1
+M00986,Stephanie Mahoney,Unknown,34,Changsha,Central China,Silver,2023-06-12,Community Warehouse,1
+M00987,Ashley Lopez,Male,43,Xiamen,South China,Gold,2025-05-25,Pop-up Clearance Warehouse,1
+M00988,Debra Bradley,Female,22,Xi'an,West China,Silver,2023-04-10,Mall Warehouse,1
+M00989,Michael Howard,Female,22,Chongqing,West China,Silver,2025-02-06,Shopping Center Warehouse,1
+M00990,Jonathan Jacobs,Male,40,Chongqing,West China,Silver,2025-03-13,Warehouse Outlet,1
+M00991,Samuel Henry,Male,28,Qingdao,North China,Gold,2022-11-24,Mall Warehouse,1
+M00992,Andrew Duran,Female,47,Chengdu,West China,Silver,2022-05-29,Warehouse Outlet,1
+M00993,Jason Newton,Female,27,Shenzhen,South China,Silver,2026-04-20,Mall Warehouse,1
+M00994,Andrea Ho,Male,31,Suzhou,East China,Silver,2026-04-17,Warehouse Outlet,1
+M00995,Katherine Nguyen,Male,21,Xiamen,South China,Gold,2024-03-06,Mall Warehouse,0
+M00996,Jared Williams,Male,18,Nanjing,East China,Platinum,2025-04-16,Mall Warehouse,1
+M00997,Erik Carr,Female,30,Xi'an,West China,Platinum,2025-04-26,Mall Warehouse,1
+M00998,Kelly Liu,Female,43,Xiamen,South China,Silver,2025-06-30,Pop-up Clearance Warehouse,1
+M00999,Jocelyn Wilcox,Female,26,Hangzhou,East China,Gold,2022-07-08,Warehouse Outlet,1
+M01000,Kelly Foster PhD,Male,45,Changsha,Central China,Platinum,2024-07-30,Warehouse Outlet,1
